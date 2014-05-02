@@ -1,0 +1,37 @@
+{
+  "name": "whattheysaid-bbc-video-crawler",
+  "version": "0.0.1",
+  "description": "whattheysaid bbc video crawler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yunjiali/whattheysaid-bbc-video-crawler.git"
+  },
+  "keywords": [
+    "bbc",
+    "video",
+    "parliament"
+  ],
+  "author": "Yunjia Li",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "778f6bb862bcb48e613183f6b4aa42f8bebee131",
+  "dependencies": {
+    "underscore": "latest",
+    "async": "latest",
+    "request":"latest",
+    "mongodb":"latest",
+    "optimist":"latest",
+    "monk":"latest",
+    "jsdom":"latest",
+    "xmlwjs":"latest",
+    "string":"latest",
+    "config":"latest",
+    "jsonfile":"latest",
+    "googlediff":"latest",
+    "wget":"latest"
+  }
+}

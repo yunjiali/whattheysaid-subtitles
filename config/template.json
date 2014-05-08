@@ -1,0 +1,15 @@
+{
+	"Crawler":{
+		"dbHost": "localhost",
+		"dbPort": 27017,
+		"dbName": "whattheysaidtest",
+		"dbUsername":"",
+		"dbPassword":"",
+		"apiKey": "aaa",
+		"alchemyApiKey":"ddd",
+		"elasticSearchHost":"localhost",
+		"elasticSearchPort":"9200",
+		"getPersonCron": "* * * * * *" ,
+		"getDebateCron": "*/2 * * * * * "
+	}
+}

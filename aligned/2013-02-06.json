@@ -1,0 +1,4018 @@
+[
+  {
+    "start_char_pos": 0,
+    "char_count": 117,
+    "epobject_id": "22289375",
+    "gid": "2013-02-06a.259.4",
+    "start": 272198,
+    "end": 272198
+  },
+  {
+    "start_char_pos": 117,
+    "char_count": 170,
+    "epobject_id": "22289376",
+    "gid": "2013-02-06a.259.5",
+    "start": 272198,
+    "end": 290708
+  },
+  {
+    "start_char_pos": 287,
+    "char_count": 483,
+    "epobject_id": "22289377",
+    "gid": "2013-02-06a.259.6",
+    "start": 286398,
+    "end": 289308
+  },
+  {
+    "start_char_pos": 770,
+    "char_count": 475,
+    "epobject_id": "22289378",
+    "gid": "2013-02-06a.259.7",
+    "start": 310638,
+    "end": 333508
+  },
+  {
+    "start_char_pos": 1245,
+    "char_count": 318,
+    "epobject_id": "22289379",
+    "gid": "2013-02-06a.259.8",
+    "start": 342788,
+    "end": 348938
+  },
+  {
+    "start_char_pos": 1563,
+    "char_count": 645,
+    "epobject_id": "22289380",
+    "gid": "2013-02-06a.259.9",
+    "start": 362618,
+    "end": 387378
+  },
+  {
+    "start_char_pos": 2208,
+    "char_count": 467,
+    "epobject_id": "22289381",
+    "gid": "2013-02-06a.260.0",
+    "start": 393938,
+    "end": 418918
+  },
+  {
+    "start_char_pos": 2675,
+    "char_count": 488,
+    "epobject_id": "22289382",
+    "gid": "2013-02-06a.260.1",
+    "start": 423098,
+    "end": 444288
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 94,
+    "epobject_id": "22289384",
+    "gid": "2013-02-06a.260.3",
+    "start": 451458,
+    "end": 451458
+  },
+  {
+    "start_char_pos": 94,
+    "char_count": 439,
+    "epobject_id": "22289385",
+    "gid": "2013-02-06a.260.4",
+    "start": 451458,
+    "end": 475548
+  },
+  {
+    "start_char_pos": 533,
+    "char_count": 501,
+    "epobject_id": "22289386",
+    "gid": "2013-02-06a.260.5",
+    "start": 483618,
+    "end": 497628
+  },
+  {
+    "start_char_pos": 1034,
+    "char_count": 401,
+    "epobject_id": "22289387",
+    "gid": "2013-02-06a.260.6",
+    "start": 499558,
+    "end": 520368
+  },
+  {
+    "start_char_pos": 1435,
+    "char_count": 533,
+    "epobject_id": "22289388",
+    "gid": "2013-02-06a.261.0",
+    "start": 537008,
+    "end": 558718
+  },
+  {
+    "start_char_pos": 1968,
+    "char_count": 442,
+    "epobject_id": "22289389",
+    "gid": "2013-02-06a.261.1",
+    "start": 562508,
+    "end": 579528
+  },
+  {
+    "start_char_pos": 2410,
+    "char_count": 464,
+    "epobject_id": "22289390",
+    "gid": "2013-02-06a.261.2",
+    "start": 584968,
+    "end": 605078
+  },
+  {
+    "start_char_pos": 2874,
+    "char_count": 257,
+    "epobject_id": "22289391",
+    "gid": "2013-02-06a.261.3",
+    "start": 609948,
+    "end": 617828
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 173,
+    "epobject_id": "22289393",
+    "gid": "2013-02-06a.261.5",
+    "start": 633348,
+    "end": 633348
+  },
+  {
+    "start_char_pos": 173,
+    "char_count": 352,
+    "epobject_id": "22289394",
+    "gid": "2013-02-06a.261.6",
+    "start": 633348,
+    "end": 638598
+  },
+  {
+    "start_char_pos": 525,
+    "char_count": 348,
+    "epobject_id": "22289395",
+    "gid": "2013-02-06a.261.7",
+    "start": 649748,
+    "end": 667238
+  },
+  {
+    "start_char_pos": 873,
+    "char_count": 296,
+    "epobject_id": "22289396",
+    "gid": "2013-02-06a.261.8",
+    "start": 686887,
+    "end": 687727
+  },
+  {
+    "start_char_pos": 1169,
+    "char_count": 130,
+    "epobject_id": "22289397",
+    "gid": "2013-02-06a.262.0",
+    "start": 695887,
+    "end": 697147
+  },
+  {
+    "start_char_pos": 1299,
+    "char_count": 196,
+    "epobject_id": "22289398",
+    "gid": "2013-02-06a.262.1",
+    "start": 702117,
+    "end": 713137
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 118,
+    "epobject_id": "22289400",
+    "gid": "2013-02-06a.262.3",
+    "start": 703757,
+    "end": 703757
+  },
+  {
+    "start_char_pos": 118,
+    "char_count": 579,
+    "epobject_id": "22289401",
+    "gid": "2013-02-06a.262.4",
+    "start": 703757,
+    "end": 752097
+  },
+  {
+    "start_char_pos": 697,
+    "char_count": 407,
+    "epobject_id": "22289402",
+    "gid": "2013-02-06a.262.5",
+    "start": 757627,
+    "end": 778387
+  },
+  {
+    "start_char_pos": 1104,
+    "char_count": 421,
+    "epobject_id": "22289403",
+    "gid": "2013-02-06a.262.6",
+    "start": 786317,
+    "end": 803287
+  },
+  {
+    "start_char_pos": 1525,
+    "char_count": 513,
+    "epobject_id": "22289404",
+    "gid": "2013-02-06a.262.7",
+    "start": 813267,
+    "end": 843697
+  },
+  {
+    "start_char_pos": 2038,
+    "char_count": 430,
+    "epobject_id": "22289405",
+    "gid": "2013-02-06a.262.8",
+    "start": 851567,
+    "end": 880817
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 53,
+    "epobject_id": "22289407",
+    "gid": "2013-02-06a.263.1",
+    "start": 62221.93512851898,
+    "end": 124443.87025703795
+  },
+  {
+    "start_char_pos": 53,
+    "char_count": 53,
+    "epobject_id": "22289408",
+    "gid": "2013-02-06a.263.2",
+    "start": 124443.87025703795,
+    "end": 591695.3831089351
+  },
+  {
+    "start_char_pos": 106,
+    "char_count": 398,
+    "epobject_id": "22289409",
+    "gid": "2013-02-06a.263.3",
+    "start": 591695.3831089351,
+    "end": 959157
+  },
+  {
+    "start_char_pos": 504,
+    "char_count": 313,
+    "epobject_id": "22289410",
+    "gid": "2013-02-06a.263.4",
+    "start": 959157,
+    "end": 959157
+  },
+  {
+    "start_char_pos": 817,
+    "char_count": 740,
+    "epobject_id": "22289411",
+    "gid": "2013-02-06a.263.5",
+    "start": 959157,
+    "end": 975937
+  },
+  {
+    "start_char_pos": 1557,
+    "char_count": 169,
+    "epobject_id": "22289412",
+    "gid": "2013-02-06a.263.6",
+    "start": 998017,
+    "end": 998017
+  },
+  {
+    "start_char_pos": 1726,
+    "char_count": 493,
+    "epobject_id": "22289413",
+    "gid": "2013-02-06a.263.7",
+    "start": 998017,
+    "end": 1016537
+  },
+  {
+    "start_char_pos": 2219,
+    "char_count": 506,
+    "epobject_id": "22289414",
+    "gid": "2013-02-06a.263.8",
+    "start": 1028767,
+    "end": 1058727
+  },
+  {
+    "start_char_pos": 2725,
+    "char_count": 429,
+    "epobject_id": "22289415",
+    "gid": "2013-02-06a.264.0",
+    "start": 1081927,
+    "end": 1090647
+  },
+  {
+    "start_char_pos": 3154,
+    "char_count": 293,
+    "epobject_id": "22289416",
+    "gid": "2013-02-06a.264.1",
+    "start": 1100307,
+    "end": 1104717
+  },
+  {
+    "start_char_pos": 3447,
+    "char_count": 356,
+    "epobject_id": "22289417",
+    "gid": "2013-02-06a.264.2",
+    "start": 1117137,
+    "end": 1142967
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 81,
+    "epobject_id": "22289419",
+    "gid": "2013-02-06a.264.4",
+    "start": 1145637,
+    "end": 1145637
+  },
+  {
+    "start_char_pos": 81,
+    "char_count": 198,
+    "epobject_id": "22289420",
+    "gid": "2013-02-06a.264.5",
+    "start": 1145637,
+    "end": 1156697
+  },
+  {
+    "start_char_pos": 279,
+    "char_count": 595,
+    "epobject_id": "22289421",
+    "gid": "2013-02-06a.264.6",
+    "start": 1161337,
+    "end": 1195097
+  },
+  {
+    "start_char_pos": 874,
+    "char_count": 500,
+    "epobject_id": "22289422",
+    "gid": "2013-02-06a.264.7",
+    "start": 1195097,
+    "end": 1211637
+  },
+  {
+    "start_char_pos": 1374,
+    "char_count": 225,
+    "epobject_id": "22289423",
+    "gid": "2013-02-06a.265.0",
+    "start": 1231102,
+    "end": 1238362
+  },
+  {
+    "start_char_pos": 1599,
+    "char_count": 551,
+    "epobject_id": "22289424",
+    "gid": "2013-02-06a.265.1",
+    "start": 1244552,
+    "end": 1276802
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 143,
+    "epobject_id": "22289426",
+    "gid": "2013-02-06a.265.3",
+    "start": 1280042,
+    "end": 1280042
+  },
+  {
+    "start_char_pos": 143,
+    "char_count": 190,
+    "epobject_id": "22289427",
+    "gid": "2013-02-06a.265.4",
+    "start": 1280042,
+    "end": 1295412
+  },
+  {
+    "start_char_pos": 333,
+    "char_count": 399,
+    "epobject_id": "22289428",
+    "gid": "2013-02-06a.265.5",
+    "start": 1305542,
+    "end": 1320352
+  },
+  {
+    "start_char_pos": 732,
+    "char_count": 219,
+    "epobject_id": "22289429",
+    "gid": "2013-02-06a.265.6",
+    "start": 1332542,
+    "end": 1336062
+  },
+  {
+    "start_char_pos": 951,
+    "char_count": 133,
+    "epobject_id": "22289430",
+    "gid": "2013-02-06a.265.7",
+    "start": 1336062,
+    "end": 1343932
+  },
+  {
+    "start_char_pos": 1084,
+    "char_count": 245,
+    "epobject_id": "22289431",
+    "gid": "2013-02-06a.265.8",
+    "start": 1351202,
+    "end": 1357392
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 72,
+    "epobject_id": "22289433",
+    "gid": "2013-02-06a.265.10",
+    "start": 1372062,
+    "end": 1372062
+  },
+  {
+    "start_char_pos": 72,
+    "char_count": 361,
+    "epobject_id": "22289434",
+    "gid": "2013-02-06a.265.11",
+    "start": 1372062,
+    "end": 1384482
+  },
+  {
+    "start_char_pos": 433,
+    "char_count": 203,
+    "epobject_id": "22289435",
+    "gid": "2013-02-06a.266.0",
+    "start": 1398592,
+    "end": 1402162
+  },
+  {
+    "start_char_pos": 636,
+    "char_count": 280,
+    "epobject_id": "22289436",
+    "gid": "2013-02-06a.266.1",
+    "start": 1409372,
+    "end": 1422732
+  },
+  {
+    "start_char_pos": 916,
+    "char_count": 203,
+    "epobject_id": "22289437",
+    "gid": "2013-02-06a.266.2",
+    "start": 1432492,
+    "end": 1446602
+  },
+  {
+    "start_char_pos": 1119,
+    "char_count": 257,
+    "epobject_id": "22289438",
+    "gid": "2013-02-06a.266.3",
+    "start": 1464182,
+    "end": 1464182
+  },
+  {
+    "start_char_pos": 1376,
+    "char_count": 300,
+    "epobject_id": "22289439",
+    "gid": "2013-02-06a.266.4",
+    "start": 1464182,
+    "end": 1475242
+  },
+  {
+    "start_char_pos": 1676,
+    "char_count": 337,
+    "epobject_id": "22289440",
+    "gid": "2013-02-06a.266.5",
+    "start": 1489492,
+    "end": 1504402
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 65,
+    "epobject_id": "22289442",
+    "gid": "2013-02-06a.266.7",
+    "start": 1506082,
+    "end": 1506082
+  },
+  {
+    "start_char_pos": 65,
+    "char_count": 268,
+    "epobject_id": "22289443",
+    "gid": "2013-02-06a.266.8",
+    "start": 1506082,
+    "end": 1522212
+  },
+  {
+    "start_char_pos": 333,
+    "char_count": 410,
+    "epobject_id": "22289444",
+    "gid": "2013-02-06a.266.9",
+    "start": 1554742,
+    "end": 1554742
+  },
+  {
+    "start_char_pos": 743,
+    "char_count": 397,
+    "epobject_id": "22289445",
+    "gid": "2013-02-06a.267.0",
+    "start": 1554742,
+    "end": 1577062
+  },
+  {
+    "start_char_pos": 1140,
+    "char_count": 78,
+    "epobject_id": "22289446",
+    "gid": "2013-02-06a.267.1",
+    "start": 1587282,
+    "end": 1587282
+  },
+  {
+    "start_char_pos": 1218,
+    "char_count": 322,
+    "epobject_id": "22289447",
+    "gid": "2013-02-06a.267.2",
+    "start": 1587282,
+    "end": 1597832
+  },
+  {
+    "start_char_pos": 1540,
+    "char_count": 357,
+    "epobject_id": "22289448",
+    "gid": "2013-02-06a.267.3",
+    "start": 1616532,
+    "end": 1630272
+  },
+  {
+    "start_char_pos": 1897,
+    "char_count": 241,
+    "epobject_id": "22289449",
+    "gid": "2013-02-06a.267.4",
+    "start": 1661492,
+    "end": 1661492
+  },
+  {
+    "start_char_pos": 2138,
+    "char_count": 418,
+    "epobject_id": "22289450",
+    "gid": "2013-02-06a.267.5",
+    "start": 1661492,
+    "end": 1682962
+  },
+  {
+    "start_char_pos": 2556,
+    "char_count": 107,
+    "epobject_id": "22289451",
+    "gid": "2013-02-06a.267.6",
+    "start": 448497.54634146346,
+    "end": 1718542
+  },
+  {
+    "start_char_pos": 2663,
+    "char_count": 303,
+    "epobject_id": "22289452",
+    "gid": "2013-02-06a.267.7",
+    "start": 1718542,
+    "end": 1718542
+  },
+  {
+    "start_char_pos": 2966,
+    "char_count": 253,
+    "epobject_id": "22289453",
+    "gid": "2013-02-06a.267.8",
+    "start": 1718542,
+    "end": 1726742
+  },
+  {
+    "start_char_pos": 3219,
+    "char_count": 298,
+    "epobject_id": "22289454",
+    "gid": "2013-02-06a.267.9",
+    "start": 1739962,
+    "end": 1747602
+  },
+  {
+    "start_char_pos": 3517,
+    "char_count": 533,
+    "epobject_id": "22289455",
+    "gid": "2013-02-06a.268.0",
+    "start": 654298,
+    "end": 1769632
+  },
+  {
+    "start_char_pos": 4050,
+    "char_count": 177,
+    "epobject_id": "22289456",
+    "gid": "2013-02-06a.268.1",
+    "start": 1777652,
+    "end": 1782242
+  },
+  {
+    "start_char_pos": 4227,
+    "char_count": 290,
+    "epobject_id": "22289457",
+    "gid": "2013-02-06a.268.2",
+    "start": 1785242,
+    "end": 1807848
+  },
+  {
+    "start_char_pos": 4517,
+    "char_count": 400,
+    "epobject_id": "22289458",
+    "gid": "2013-02-06a.268.3",
+    "start": 1824388,
+    "end": 1824388
+  },
+  {
+    "start_char_pos": 4917,
+    "char_count": 164,
+    "epobject_id": "22289459",
+    "gid": "2013-02-06a.268.4",
+    "start": 1824388,
+    "end": 1835928
+  },
+  {
+    "start_char_pos": 5081,
+    "char_count": 231,
+    "epobject_id": "22289460",
+    "gid": "2013-02-06a.268.5",
+    "start": 1837148,
+    "end": 1855246
+  },
+  {
+    "start_char_pos": 5312,
+    "char_count": 53,
+    "epobject_id": "22289461",
+    "gid": "2013-02-06a.268.6",
+    "start": 832214.0168067227,
+    "end": 1868556
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 66,
+    "epobject_id": "22289465",
+    "gid": "2013-02-06a.268.10",
+    "start": 1868556,
+    "end": 1868556
+  },
+  {
+    "start_char_pos": 66,
+    "char_count": 159,
+    "epobject_id": "22289466",
+    "gid": "2013-02-06a.268.11",
+    "start": 1868556,
+    "end": 1877506
+  },
+  {
+    "start_char_pos": 225,
+    "char_count": 377,
+    "epobject_id": "22289467",
+    "gid": "2013-02-06a.269.0",
+    "start": 1878776,
+    "end": 1904276
+  },
+  {
+    "start_char_pos": 602,
+    "char_count": 497,
+    "epobject_id": "22289468",
+    "gid": "2013-02-06a.269.1",
+    "start": 1918486,
+    "end": 1933206
+  },
+  {
+    "start_char_pos": 1099,
+    "char_count": 502,
+    "epobject_id": "22289469",
+    "gid": "2013-02-06a.269.2",
+    "start": 1940136,
+    "end": 1965876
+  },
+  {
+    "start_char_pos": 1601,
+    "char_count": 588,
+    "epobject_id": "22289470",
+    "gid": "2013-02-06a.269.3",
+    "start": 1983596,
+    "end": 2006706
+  },
+  {
+    "start_char_pos": 2189,
+    "char_count": 785,
+    "epobject_id": "22289471",
+    "gid": "2013-02-06a.269.4",
+    "start": 2009096,
+    "end": 2067606
+  },
+  {
+    "start_char_pos": 2974,
+    "char_count": 1095,
+    "epobject_id": "22289472",
+    "gid": "2013-02-06a.269.5",
+    "start": 2075756,
+    "end": 2137496
+  },
+  {
+    "start_char_pos": 4069,
+    "char_count": 921,
+    "epobject_id": "22289473",
+    "gid": "2013-02-06a.270.0",
+    "start": 2141666,
+    "end": 2270450
+  },
+  {
+    "start_char_pos": 4990,
+    "char_count": 579,
+    "epobject_id": "22289474",
+    "gid": "2013-02-06a.270.1",
+    "start": 2206406,
+    "end": 2240486
+  },
+  {
+    "start_char_pos": 5569,
+    "char_count": 396,
+    "epobject_id": "22289475",
+    "gid": "2013-02-06a.270.2",
+    "start": 2240486,
+    "end": 2277430
+  },
+  {
+    "start_char_pos": 5965,
+    "char_count": 405,
+    "epobject_id": "22289476",
+    "gid": "2013-02-06a.270.3",
+    "start": 2281790,
+    "end": 2307570
+  },
+  {
+    "start_char_pos": 6370,
+    "char_count": 1047,
+    "epobject_id": "22289477",
+    "gid": "2013-02-06a.271.0",
+    "start": 2307570,
+    "end": 2379440
+  },
+  {
+    "start_char_pos": 7417,
+    "char_count": 515,
+    "epobject_id": "22289478",
+    "gid": "2013-02-06a.271.1",
+    "start": 2379440,
+    "end": 2409300
+  },
+  {
+    "start_char_pos": 7932,
+    "char_count": 442,
+    "epobject_id": "22289479",
+    "gid": "2013-02-06a.271.2",
+    "start": 2414080,
+    "end": 2437990
+  },
+  {
+    "start_char_pos": 8374,
+    "char_count": 662,
+    "epobject_id": "22289480",
+    "gid": "2013-02-06a.271.3",
+    "start": 2444460,
+    "end": 2486600
+  },
+  {
+    "start_char_pos": 9036,
+    "char_count": 418,
+    "epobject_id": "22289481",
+    "gid": "2013-02-06a.271.4",
+    "start": 2498270,
+    "end": 2520070
+  },
+  {
+    "start_char_pos": 9454,
+    "char_count": 578,
+    "epobject_id": "22289482",
+    "gid": "2013-02-06a.272.0",
+    "start": 2526590,
+    "end": 2556220
+  },
+  {
+    "start_char_pos": 10032,
+    "char_count": 328,
+    "epobject_id": "22289483",
+    "gid": "2013-02-06a.272.1",
+    "start": 2556220,
+    "end": 2622170
+  },
+  {
+    "start_char_pos": 10360,
+    "char_count": 450,
+    "epobject_id": "22289484",
+    "gid": "2013-02-06a.272.2",
+    "start": 2594380,
+    "end": 2612280
+  },
+  {
+    "start_char_pos": 10810,
+    "char_count": 572,
+    "epobject_id": "22289485",
+    "gid": "2013-02-06a.272.3",
+    "start": 2624990,
+    "end": 2655550
+  },
+  {
+    "start_char_pos": 11382,
+    "char_count": 379,
+    "epobject_id": "22289486",
+    "gid": "2013-02-06a.272.4",
+    "start": 2658650,
+    "end": 2670740
+  },
+  {
+    "start_char_pos": 11761,
+    "char_count": 141,
+    "epobject_id": "22289487",
+    "gid": "2013-02-06a.272.5",
+    "start": 2679080,
+    "end": 2682230
+  },
+  {
+    "start_char_pos": 11902,
+    "char_count": 466,
+    "epobject_id": "22289488",
+    "gid": "2013-02-06a.272.6",
+    "start": 2691180,
+    "end": 2713020
+  },
+  {
+    "start_char_pos": 12368,
+    "char_count": 261,
+    "epobject_id": "22289489",
+    "gid": "2013-02-06a.273.0",
+    "start": 2718510,
+    "end": 2731310
+  },
+  {
+    "start_char_pos": 12629,
+    "char_count": 450,
+    "epobject_id": "22289490",
+    "gid": "2013-02-06a.273.1",
+    "start": 2748560,
+    "end": 2750250
+  },
+  {
+    "start_char_pos": 13079,
+    "char_count": 87,
+    "epobject_id": "22289491",
+    "gid": "2013-02-06a.273.2",
+    "start": 2782970,
+    "end": 2782970
+  },
+  {
+    "start_char_pos": 13166,
+    "char_count": 227,
+    "epobject_id": "22289492",
+    "gid": "2013-02-06a.273.3",
+    "start": 2782970,
+    "end": 2784090
+  },
+  {
+    "start_char_pos": 13393,
+    "char_count": 416,
+    "epobject_id": "22289493",
+    "gid": "2013-02-06a.273.4",
+    "start": 2793090,
+    "end": 2814380
+  },
+  {
+    "start_char_pos": 13809,
+    "char_count": 505,
+    "epobject_id": "22289494",
+    "gid": "2013-02-06a.273.5",
+    "start": 2824310,
+    "end": 2852160
+  },
+  {
+    "start_char_pos": 14314,
+    "char_count": 304,
+    "epobject_id": "22289495",
+    "gid": "2013-02-06a.273.6",
+    "start": 2855070,
+    "end": 2857220
+  },
+  {
+    "start_char_pos": 14618,
+    "char_count": 253,
+    "epobject_id": "22289496",
+    "gid": "2013-02-06a.273.7",
+    "start": 2876770,
+    "end": 2882300
+  },
+  {
+    "start_char_pos": 14871,
+    "char_count": 195,
+    "epobject_id": "22289497",
+    "gid": "2013-02-06a.273.8",
+    "start": 2888870,
+    "end": 2895570
+  },
+  {
+    "start_char_pos": 15066,
+    "char_count": 361,
+    "epobject_id": "22289498",
+    "gid": "2013-02-06a.274.0",
+    "start": 2911510,
+    "end": 2920650
+  },
+  {
+    "start_char_pos": 15427,
+    "char_count": 223,
+    "epobject_id": "22289499",
+    "gid": "2013-02-06a.274.1",
+    "start": 2926740,
+    "end": 2937250
+  },
+  {
+    "start_char_pos": 15650,
+    "char_count": 175,
+    "epobject_id": "22289500",
+    "gid": "2013-02-06a.274.2",
+    "start": 2940060,
+    "end": 2948360
+  },
+  {
+    "start_char_pos": 15825,
+    "char_count": 226,
+    "epobject_id": "22289501",
+    "gid": "2013-02-06a.274.3",
+    "start": 2953990,
+    "end": 2959850
+  },
+  {
+    "start_char_pos": 16051,
+    "char_count": 681,
+    "epobject_id": "22289502",
+    "gid": "2013-02-06a.274.4",
+    "start": 2975320,
+    "end": 3012260
+  },
+  {
+    "start_char_pos": 16732,
+    "char_count": 388,
+    "epobject_id": "22289503",
+    "gid": "2013-02-06a.274.5",
+    "start": 3018870,
+    "end": 3023270
+  },
+  {
+    "start_char_pos": 17120,
+    "char_count": 546,
+    "epobject_id": "22289504",
+    "gid": "2013-02-06a.274.6",
+    "start": 3036210,
+    "end": 3061240
+  },
+  {
+    "start_char_pos": 17666,
+    "char_count": 97,
+    "epobject_id": "22289505",
+    "gid": "2013-02-06a.274.7",
+    "start": 3066170,
+    "end": 3069350
+  },
+  {
+    "start_char_pos": 17763,
+    "char_count": 154,
+    "epobject_id": "22289506",
+    "gid": "2013-02-06a.275.0",
+    "start": 3092610,
+    "end": 3092610
+  },
+  {
+    "start_char_pos": 17917,
+    "char_count": 412,
+    "epobject_id": "22289507",
+    "gid": "2013-02-06a.275.1",
+    "start": 3092610,
+    "end": 3109620
+  },
+  {
+    "start_char_pos": 18329,
+    "char_count": 600,
+    "epobject_id": "22289508",
+    "gid": "2013-02-06a.275.2",
+    "start": 3119800,
+    "end": 3153310
+  },
+  {
+    "start_char_pos": 18929,
+    "char_count": 183,
+    "epobject_id": "22289509",
+    "gid": "2013-02-06a.275.3",
+    "start": 3155560,
+    "end": 3162270
+  },
+  {
+    "start_char_pos": 19112,
+    "char_count": 356,
+    "epobject_id": "22289510",
+    "gid": "2013-02-06a.275.4",
+    "start": 3168270,
+    "end": 3192130
+  },
+  {
+    "start_char_pos": 19468,
+    "char_count": 495,
+    "epobject_id": "22289511",
+    "gid": "2013-02-06a.275.5",
+    "start": 5128567,
+    "end": 5130357
+  },
+  {
+    "start_char_pos": 19963,
+    "char_count": 603,
+    "epobject_id": "22289512",
+    "gid": "2013-02-06a.275.6",
+    "start": 3220910,
+    "end": 3264180
+  },
+  {
+    "start_char_pos": 20566,
+    "char_count": 342,
+    "epobject_id": "22289513",
+    "gid": "2013-02-06a.275.7",
+    "start": 3277350,
+    "end": 3286305
+  },
+  {
+    "start_char_pos": 20908,
+    "char_count": 636,
+    "epobject_id": "22289514",
+    "gid": "2013-02-06a.276.0",
+    "start": 3291325,
+    "end": 3324045
+  },
+  {
+    "start_char_pos": 21544,
+    "char_count": 426,
+    "epobject_id": "22289515",
+    "gid": "2013-02-06a.276.1",
+    "start": 3332955,
+    "end": 3357325
+  },
+  {
+    "start_char_pos": 21970,
+    "char_count": 727,
+    "epobject_id": "22289516",
+    "gid": "2013-02-06a.276.2",
+    "start": 3367735,
+    "end": 3407305
+  },
+  {
+    "start_char_pos": 22697,
+    "char_count": 232,
+    "epobject_id": "22289517",
+    "gid": "2013-02-06a.276.3",
+    "start": 3413535,
+    "end": 3427695
+  },
+  {
+    "start_char_pos": 22929,
+    "char_count": 462,
+    "epobject_id": "22289518",
+    "gid": "2013-02-06a.276.4",
+    "start": 3439135,
+    "end": 3460555
+  },
+  {
+    "start_char_pos": 23391,
+    "char_count": 275,
+    "epobject_id": "22289519",
+    "gid": "2013-02-06a.276.5",
+    "start": 3463745,
+    "end": 3474475
+  },
+  {
+    "start_char_pos": 23666,
+    "char_count": 393,
+    "epobject_id": "22289520",
+    "gid": "2013-02-06a.277.0",
+    "start": 3488165,
+    "end": 3504385
+  },
+  {
+    "start_char_pos": 24059,
+    "char_count": 384,
+    "epobject_id": "22289521",
+    "gid": "2013-02-06a.277.1",
+    "start": 3513105,
+    "end": 3530775
+  },
+  {
+    "start_char_pos": 24443,
+    "char_count": 569,
+    "epobject_id": "22289522",
+    "gid": "2013-02-06a.277.2",
+    "start": 3549295,
+    "end": 3568935
+  },
+  {
+    "start_char_pos": 25012,
+    "char_count": 361,
+    "epobject_id": "22289523",
+    "gid": "2013-02-06a.277.3",
+    "start": 3586655,
+    "end": 3602628
+  },
+  {
+    "start_char_pos": 25373,
+    "char_count": 580,
+    "epobject_id": "22289524",
+    "gid": "2013-02-06a.277.4",
+    "start": 3607408,
+    "end": 3631928
+  },
+  {
+    "start_char_pos": 25953,
+    "char_count": 322,
+    "epobject_id": "22289525",
+    "gid": "2013-02-06a.277.5",
+    "start": 3648188,
+    "end": 3653018
+  },
+  {
+    "start_char_pos": 26275,
+    "char_count": 779,
+    "epobject_id": "22289526",
+    "gid": "2013-02-06a.278.0",
+    "start": 3656258,
+    "end": 3690378
+  },
+  {
+    "start_char_pos": 27054,
+    "char_count": 271,
+    "epobject_id": "22289527",
+    "gid": "2013-02-06a.278.1",
+    "start": 3703038,
+    "end": 3719348
+  },
+  {
+    "start_char_pos": 27325,
+    "char_count": 419,
+    "epobject_id": "22289528",
+    "gid": "2013-02-06a.278.2",
+    "start": 3723668,
+    "end": 3738288
+  },
+  {
+    "start_char_pos": 27744,
+    "char_count": 438,
+    "epobject_id": "22289529",
+    "gid": "2013-02-06a.278.3",
+    "start": 3748928,
+    "end": 3775468
+  },
+  {
+    "start_char_pos": 28182,
+    "char_count": 717,
+    "epobject_id": "22289530",
+    "gid": "2013-02-06a.278.4",
+    "start": 3782918,
+    "end": 3824968
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 15571,
+    "epobject_id": "22289532",
+    "gid": "2013-02-06a.279.1",
+    "start": 207078,
+    "end": 20742496
+  },
+  {
+    "start_char_pos": 15571,
+    "char_count": 6648,
+    "epobject_id": "22289533",
+    "gid": "2013-02-06a.283.0",
+    "start": 869897,
+    "end": 15728709
+  },
+  {
+    "start_char_pos": 22219,
+    "char_count": 5139,
+    "epobject_id": "22289534",
+    "gid": "2013-02-06a.285.0",
+    "start": 752097,
+    "end": 15742209
+  },
+  {
+    "start_char_pos": 27358,
+    "char_count": 966,
+    "epobject_id": "22289535",
+    "gid": "2013-02-06a.287.0",
+    "start": 5464127,
+    "end": 5510677
+  },
+  {
+    "start_char_pos": 28324,
+    "char_count": 1171,
+    "epobject_id": "22289536",
+    "gid": "2013-02-06a.287.1",
+    "start": 3485445,
+    "end": 5563792
+  },
+  {
+    "start_char_pos": 29495,
+    "char_count": 657,
+    "epobject_id": "22289537",
+    "gid": "2013-02-06a.287.2",
+    "start": 5578282,
+    "end": 5617612
+  },
+  {
+    "start_char_pos": 30152,
+    "char_count": 870,
+    "epobject_id": "22289538",
+    "gid": "2013-02-06a.288.0",
+    "start": 5622902,
+    "end": 5669972
+  },
+  {
+    "start_char_pos": 31022,
+    "char_count": 586,
+    "epobject_id": "22289539",
+    "gid": "2013-02-06a.288.1",
+    "start": 5693222,
+    "end": 5709772
+  },
+  {
+    "start_char_pos": 31608,
+    "char_count": 822,
+    "epobject_id": "22289540",
+    "gid": "2013-02-06a.288.2",
+    "start": 5718772,
+    "end": 5750182
+  },
+  {
+    "start_char_pos": 32430,
+    "char_count": 674,
+    "epobject_id": "22289541",
+    "gid": "2013-02-06a.288.3",
+    "start": 5773102,
+    "end": 5822932
+  },
+  {
+    "start_char_pos": 33104,
+    "char_count": 1262,
+    "epobject_id": "22289542",
+    "gid": "2013-02-06a.289.0",
+    "start": 5770712,
+    "end": 5877172
+  },
+  {
+    "start_char_pos": 34366,
+    "char_count": 638,
+    "epobject_id": "22289543",
+    "gid": "2013-02-06a.289.1",
+    "start": 5884912,
+    "end": 5927662
+  },
+  {
+    "start_char_pos": 35004,
+    "char_count": 1187,
+    "epobject_id": "22289544",
+    "gid": "2013-02-06a.289.2",
+    "start": 5933992,
+    "end": 5989772
+  },
+  {
+    "start_char_pos": 36191,
+    "char_count": 880,
+    "epobject_id": "22289545",
+    "gid": "2013-02-06a.289.3",
+    "start": 5996852,
+    "end": 6044152
+  },
+  {
+    "start_char_pos": 37071,
+    "char_count": 745,
+    "epobject_id": "22289546",
+    "gid": "2013-02-06a.290.0",
+    "start": 6058172,
+    "end": 6059812
+  },
+  {
+    "start_char_pos": 37816,
+    "char_count": 507,
+    "epobject_id": "22289547",
+    "gid": "2013-02-06a.290.1",
+    "start": 6105940,
+    "end": 6136830
+  },
+  {
+    "start_char_pos": 38323,
+    "char_count": 929,
+    "epobject_id": "22289548",
+    "gid": "2013-02-06a.290.2",
+    "start": 6148920,
+    "end": 6198940
+  },
+  {
+    "start_char_pos": 39252,
+    "char_count": 891,
+    "epobject_id": "22289549",
+    "gid": "2013-02-06a.290.3",
+    "start": 6198940,
+    "end": 6243340
+  },
+  {
+    "start_char_pos": 40143,
+    "char_count": 674,
+    "epobject_id": "22289550",
+    "gid": "2013-02-06a.291.0",
+    "start": 6250460,
+    "end": 6280040
+  },
+  {
+    "start_char_pos": 40817,
+    "char_count": 708,
+    "epobject_id": "22289551",
+    "gid": "2013-02-06a.291.1",
+    "start": 6306810,
+    "end": 6333580
+  },
+  {
+    "start_char_pos": 41525,
+    "char_count": 735,
+    "epobject_id": "22289552",
+    "gid": "2013-02-06a.291.2",
+    "start": 6338400,
+    "end": 6371740
+  },
+  {
+    "start_char_pos": 42260,
+    "char_count": 825,
+    "epobject_id": "22289553",
+    "gid": "2013-02-06a.291.3",
+    "start": 6380450,
+    "end": 6416550
+  },
+  {
+    "start_char_pos": 43085,
+    "char_count": 1304,
+    "epobject_id": "22289554",
+    "gid": "2013-02-06a.292.0",
+    "start": 6437930,
+    "end": 6504420
+  },
+  {
+    "start_char_pos": 44389,
+    "char_count": 626,
+    "epobject_id": "22289555",
+    "gid": "2013-02-06a.292.1",
+    "start": 6513450,
+    "end": 6546920
+  },
+  {
+    "start_char_pos": 45015,
+    "char_count": 658,
+    "epobject_id": "22289556",
+    "gid": "2013-02-06a.292.2",
+    "start": 6557140,
+    "end": 6595670
+  },
+  {
+    "start_char_pos": 45673,
+    "char_count": 833,
+    "epobject_id": "22289557",
+    "gid": "2013-02-06a.292.3",
+    "start": 6601670,
+    "end": 6643250
+  },
+  {
+    "start_char_pos": 46506,
+    "char_count": 660,
+    "epobject_id": "22289558",
+    "gid": "2013-02-06a.293.0",
+    "start": 6652419,
+    "end": 6688359
+  },
+  {
+    "start_char_pos": 47166,
+    "char_count": 212,
+    "epobject_id": "22289559",
+    "gid": "2013-02-06a.293.1",
+    "start": 6688359,
+    "end": 6702419
+  },
+  {
+    "start_char_pos": 47378,
+    "char_count": 853,
+    "epobject_id": "22289560",
+    "gid": "2013-02-06a.293.2",
+    "start": 6710529,
+    "end": 6756049
+  },
+  {
+    "start_char_pos": 48231,
+    "char_count": 1362,
+    "epobject_id": "22289561",
+    "gid": "2013-02-06a.293.3",
+    "start": 6762609,
+    "end": 12102869
+  },
+  {
+    "start_char_pos": 49593,
+    "char_count": 943,
+    "epobject_id": "22289562",
+    "gid": "2013-02-06a.294.0",
+    "start": 6865389,
+    "end": 6904489
+  },
+  {
+    "start_char_pos": 50536,
+    "char_count": 583,
+    "epobject_id": "22289563",
+    "gid": "2013-02-06a.294.1",
+    "start": 6915269,
+    "end": 6948649
+  },
+  {
+    "start_char_pos": 51119,
+    "char_count": 777,
+    "epobject_id": "22289564",
+    "gid": "2013-02-06a.294.2",
+    "start": 6966089,
+    "end": 7003589
+  },
+  {
+    "start_char_pos": 51896,
+    "char_count": 623,
+    "epobject_id": "22289565",
+    "gid": "2013-02-06a.294.3",
+    "start": 7003589,
+    "end": 7038789
+  },
+  {
+    "start_char_pos": 52519,
+    "char_count": 452,
+    "epobject_id": "22289566",
+    "gid": "2013-02-06a.295.0",
+    "start": 7044559,
+    "end": 7047419
+  },
+  {
+    "start_char_pos": 52971,
+    "char_count": 817,
+    "epobject_id": "22289567",
+    "gid": "2013-02-06a.295.1",
+    "start": 7065329,
+    "end": 7113749
+  },
+  {
+    "start_char_pos": 53788,
+    "char_count": 1124,
+    "epobject_id": "22289568",
+    "gid": "2013-02-06a.295.2",
+    "start": 7124439,
+    "end": 7175259
+  },
+  {
+    "start_char_pos": 54912,
+    "char_count": 304,
+    "epobject_id": "22289570",
+    "gid": "2013-02-06a.295.4",
+    "start": 7176939,
+    "end": 7193589
+  },
+  {
+    "start_char_pos": 55216,
+    "char_count": 223,
+    "epobject_id": "22289571",
+    "gid": "2013-02-06a.295.5",
+    "start": 7195739,
+    "end": 7206099
+  },
+  {
+    "start_char_pos": 55439,
+    "char_count": 305,
+    "epobject_id": "22289572",
+    "gid": "2013-02-06a.296.0",
+    "start": 7210229,
+    "end": 7214209
+  },
+  {
+    "start_char_pos": 55744,
+    "char_count": 273,
+    "epobject_id": "22289573",
+    "gid": "2013-02-06a.296.1",
+    "start": 7247499,
+    "end": 7247499
+  },
+  {
+    "start_char_pos": 56017,
+    "char_count": 602,
+    "epobject_id": "22289574",
+    "gid": "2013-02-06a.296.2",
+    "start": 7247499,
+    "end": 7269759
+  },
+  {
+    "start_char_pos": 56619,
+    "char_count": 496,
+    "epobject_id": "22289575",
+    "gid": "2013-02-06a.296.3",
+    "start": 7281249,
+    "end": 7305257
+  },
+  {
+    "start_char_pos": 57115,
+    "char_count": 203,
+    "epobject_id": "22289576",
+    "gid": "2013-02-06a.296.4",
+    "start": 7328737,
+    "end": 7328737
+  },
+  {
+    "start_char_pos": 57318,
+    "char_count": 268,
+    "epobject_id": "22289577",
+    "gid": "2013-02-06a.296.5",
+    "start": 7328737,
+    "end": 7341397
+  },
+  {
+    "start_char_pos": 57586,
+    "char_count": 380,
+    "epobject_id": "22289578",
+    "gid": "2013-02-06a.296.6",
+    "start": 7352787,
+    "end": 7369757
+  },
+  {
+    "start_char_pos": 57966,
+    "char_count": 478,
+    "epobject_id": "22289579",
+    "gid": "2013-02-06a.296.7",
+    "start": 7372147,
+    "end": 7390617
+  },
+  {
+    "start_char_pos": 58444,
+    "char_count": 690,
+    "epobject_id": "22289580",
+    "gid": "2013-02-06a.297.0",
+    "start": 7404917,
+    "end": 7436987
+  },
+  {
+    "start_char_pos": 59134,
+    "char_count": 437,
+    "epobject_id": "22289581",
+    "gid": "2013-02-06a.297.1",
+    "start": 7436987,
+    "end": 7459487
+  },
+  {
+    "start_char_pos": 59571,
+    "char_count": 625,
+    "epobject_id": "22289582",
+    "gid": "2013-02-06a.297.2",
+    "start": 7474067,
+    "end": 7499567
+  },
+  {
+    "start_char_pos": 60196,
+    "char_count": 627,
+    "epobject_id": "22289583",
+    "gid": "2013-02-06a.297.3",
+    "start": 7510157,
+    "end": 7547007
+  },
+  {
+    "start_char_pos": 60823,
+    "char_count": 383,
+    "epobject_id": "22289584",
+    "gid": "2013-02-06a.297.4",
+    "start": 7552117,
+    "end": 7562997
+  },
+  {
+    "start_char_pos": 61206,
+    "char_count": 653,
+    "epobject_id": "22289585",
+    "gid": "2013-02-06a.298.0",
+    "start": 7572037,
+    "end": 7607857
+  },
+  {
+    "start_char_pos": 61859,
+    "char_count": 431,
+    "epobject_id": "22289586",
+    "gid": "2013-02-06a.298.1",
+    "start": 7613437,
+    "end": 7629417
+  },
+  {
+    "start_char_pos": 62290,
+    "char_count": 411,
+    "epobject_id": "22289587",
+    "gid": "2013-02-06a.298.2",
+    "start": 7634337,
+    "end": 7651737
+  },
+  {
+    "start_char_pos": 62701,
+    "char_count": 511,
+    "epobject_id": "22289588",
+    "gid": "2013-02-06a.298.3",
+    "start": 7664437,
+    "end": 7684737
+  },
+  {
+    "start_char_pos": 63212,
+    "char_count": 415,
+    "epobject_id": "22289589",
+    "gid": "2013-02-06a.298.4",
+    "start": 7690407,
+    "end": 7718717
+  },
+  {
+    "start_char_pos": 63627,
+    "char_count": 263,
+    "epobject_id": "22289590",
+    "gid": "2013-02-06a.298.5",
+    "start": 7726077,
+    "end": 7733347
+  },
+  {
+    "start_char_pos": 63890,
+    "char_count": 468,
+    "epobject_id": "22289591",
+    "gid": "2013-02-06a.298.6",
+    "start": 7748487,
+    "end": 7771747
+  },
+  {
+    "start_char_pos": 64358,
+    "char_count": 941,
+    "epobject_id": "22289592",
+    "gid": "2013-02-06a.299.0",
+    "start": 7776527,
+    "end": 7817927
+  },
+  {
+    "start_char_pos": 65299,
+    "char_count": 193,
+    "epobject_id": "22289593",
+    "gid": "2013-02-06a.299.1",
+    "start": 7829827,
+    "end": 7838077
+  },
+  {
+    "start_char_pos": 65492,
+    "char_count": 244,
+    "epobject_id": "22289594",
+    "gid": "2013-02-06a.299.2",
+    "start": 7839257,
+    "end": 7850457
+  },
+  {
+    "start_char_pos": 65736,
+    "char_count": 1259,
+    "epobject_id": "22289595",
+    "gid": "2013-02-06a.299.3",
+    "start": 7828097,
+    "end": 7934307
+  },
+  {
+    "start_char_pos": 66995,
+    "char_count": 1194,
+    "epobject_id": "22289596",
+    "gid": "2013-02-06a.299.4",
+    "start": 7936877,
+    "end": 7995477
+  },
+  {
+    "start_char_pos": 68189,
+    "char_count": 859,
+    "epobject_id": "22289597",
+    "gid": "2013-02-06a.300.0",
+    "start": 8004807,
+    "end": 8039967
+  },
+  {
+    "start_char_pos": 69048,
+    "char_count": 559,
+    "epobject_id": "22289598",
+    "gid": "2013-02-06a.300.1",
+    "start": 5952692,
+    "end": 8069637
+  },
+  {
+    "start_char_pos": 69607,
+    "char_count": 570,
+    "epobject_id": "22289599",
+    "gid": "2013-02-06a.300.2",
+    "start": 8082487,
+    "end": 8120267
+  },
+  {
+    "start_char_pos": 70177,
+    "char_count": 365,
+    "epobject_id": "22289600",
+    "gid": "2013-02-06a.300.3",
+    "start": 8180037,
+    "end": 8180037
+  },
+  {
+    "start_char_pos": 70542,
+    "char_count": 781,
+    "epobject_id": "22289601",
+    "gid": "2013-02-06a.301.0",
+    "start": 8180037,
+    "end": 8188997
+  },
+  {
+    "start_char_pos": 71323,
+    "char_count": 1017,
+    "epobject_id": "22289602",
+    "gid": "2013-02-06a.301.1",
+    "start": 8191247,
+    "end": 8257528
+  },
+  {
+    "start_char_pos": 72340,
+    "char_count": 672,
+    "epobject_id": "22289603",
+    "gid": "2013-02-06a.301.2",
+    "start": 8257528,
+    "end": 8293908
+  },
+  {
+    "start_char_pos": 73012,
+    "char_count": 536,
+    "epobject_id": "22289604",
+    "gid": "2013-02-06a.301.3",
+    "start": 8301688,
+    "end": 8335958
+  },
+  {
+    "start_char_pos": 73548,
+    "char_count": 500,
+    "epobject_id": "22289605",
+    "gid": "2013-02-06a.302.0",
+    "start": 8335958,
+    "end": 8364738
+  },
+  {
+    "start_char_pos": 74048,
+    "char_count": 422,
+    "epobject_id": "22289606",
+    "gid": "2013-02-06a.302.1",
+    "start": 8373738,
+    "end": 8400408
+  },
+  {
+    "start_char_pos": 74470,
+    "char_count": 286,
+    "epobject_id": "22289607",
+    "gid": "2013-02-06a.302.2",
+    "start": 8408378,
+    "end": 8410348
+  },
+  {
+    "start_char_pos": 74756,
+    "char_count": 285,
+    "epobject_id": "22289608",
+    "gid": "2013-02-06a.302.3",
+    "start": 8419768,
+    "end": 8432618
+  },
+  {
+    "start_char_pos": 75041,
+    "char_count": 277,
+    "epobject_id": "22289609",
+    "gid": "2013-02-06a.302.4",
+    "start": 8439888,
+    "end": 8455208
+  },
+  {
+    "start_char_pos": 75318,
+    "char_count": 423,
+    "epobject_id": "22289610",
+    "gid": "2013-02-06a.302.5",
+    "start": 8463928,
+    "end": 8486528
+  },
+  {
+    "start_char_pos": 75741,
+    "char_count": 359,
+    "epobject_id": "22289611",
+    "gid": "2013-02-06a.302.6",
+    "start": 8488968,
+    "end": 8496278
+  },
+  {
+    "start_char_pos": 76100,
+    "char_count": 569,
+    "epobject_id": "22289612",
+    "gid": "2013-02-06a.303.0",
+    "start": 8530128,
+    "end": 8545548
+  },
+  {
+    "start_char_pos": 76669,
+    "char_count": 376,
+    "epobject_id": "22289613",
+    "gid": "2013-02-06a.303.1",
+    "start": 8552348,
+    "end": 8575498
+  },
+  {
+    "start_char_pos": 77045,
+    "char_count": 638,
+    "epobject_id": "22289614",
+    "gid": "2013-02-06a.303.2",
+    "start": 8577568,
+    "end": 8615768
+  },
+  {
+    "start_char_pos": 77683,
+    "char_count": 484,
+    "epobject_id": "22289615",
+    "gid": "2013-02-06a.303.3",
+    "start": 8615768,
+    "end": 8646848
+  },
+  {
+    "start_char_pos": 78167,
+    "char_count": 513,
+    "epobject_id": "22289616",
+    "gid": "2013-02-06a.303.4",
+    "start": 8648308,
+    "end": 8666068
+  },
+  {
+    "start_char_pos": 78680,
+    "char_count": 344,
+    "epobject_id": "22289617",
+    "gid": "2013-02-06a.303.5",
+    "start": 8684610,
+    "end": 8690750
+  },
+  {
+    "start_char_pos": 79024,
+    "char_count": 226,
+    "epobject_id": "22289618",
+    "gid": "2013-02-06a.303.6",
+    "start": 8704300,
+    "end": 8709450
+  },
+  {
+    "start_char_pos": 79250,
+    "char_count": 512,
+    "epobject_id": "22289619",
+    "gid": "2013-02-06a.304.0",
+    "start": 8725340,
+    "end": 8740770
+  },
+  {
+    "start_char_pos": 79762,
+    "char_count": 729,
+    "epobject_id": "22289620",
+    "gid": "2013-02-06a.304.1",
+    "start": 8747520,
+    "end": 8785350
+  },
+  {
+    "start_char_pos": 80491,
+    "char_count": 349,
+    "epobject_id": "22289621",
+    "gid": "2013-02-06a.304.2",
+    "start": 8787180,
+    "end": 8806260
+  },
+  {
+    "start_char_pos": 80840,
+    "char_count": 259,
+    "epobject_id": "22289622",
+    "gid": "2013-02-06a.304.3",
+    "start": 8813480,
+    "end": 8820180
+  },
+  {
+    "start_char_pos": 81099,
+    "char_count": 338,
+    "epobject_id": "22289623",
+    "gid": "2013-02-06a.304.4",
+    "start": 8835880,
+    "end": 8841130
+  },
+  {
+    "start_char_pos": 81437,
+    "char_count": 299,
+    "epobject_id": "22289624",
+    "gid": "2013-02-06a.304.5",
+    "start": 8844040,
+    "end": 8859700
+  },
+  {
+    "start_char_pos": 81736,
+    "char_count": 379,
+    "epobject_id": "22289625",
+    "gid": "2013-02-06a.304.6",
+    "start": 8861430,
+    "end": 8878170
+  },
+  {
+    "start_char_pos": 82115,
+    "char_count": 292,
+    "epobject_id": "22289626",
+    "gid": "2013-02-06a.304.7",
+    "start": 8885290,
+    "end": 8900480
+  },
+  {
+    "start_char_pos": 82407,
+    "char_count": 294,
+    "epobject_id": "22289627",
+    "gid": "2013-02-06a.305.0",
+    "start": 8903480,
+    "end": 8918620
+  },
+  {
+    "start_char_pos": 82701,
+    "char_count": 677,
+    "epobject_id": "22289628",
+    "gid": "2013-02-06a.305.1",
+    "start": 8925750,
+    "end": 8959220
+  },
+  {
+    "start_char_pos": 83378,
+    "char_count": 385,
+    "epobject_id": "22289629",
+    "gid": "2013-02-06a.305.2",
+    "start": 8961660,
+    "end": 8982610
+  },
+  {
+    "start_char_pos": 83763,
+    "char_count": 569,
+    "epobject_id": "22289630",
+    "gid": "2013-02-06a.305.3",
+    "start": 8984020,
+    "end": 9009190
+  },
+  {
+    "start_char_pos": 84332,
+    "char_count": 406,
+    "epobject_id": "22289631",
+    "gid": "2013-02-06a.305.4",
+    "start": 9037180,
+    "end": 9046410
+  },
+  {
+    "start_char_pos": 84738,
+    "char_count": 301,
+    "epobject_id": "22289632",
+    "gid": "2013-02-06a.306.0",
+    "start": 9049090,
+    "end": 9069530
+  },
+  {
+    "start_char_pos": 85039,
+    "char_count": 495,
+    "epobject_id": "22289633",
+    "gid": "2013-02-06a.306.1",
+    "start": 9069710,
+    "end": 9095590
+  },
+  {
+    "start_char_pos": 85534,
+    "char_count": 760,
+    "epobject_id": "22289634",
+    "gid": "2013-02-06a.306.2",
+    "start": 9095590,
+    "end": 9130050
+  },
+  {
+    "start_char_pos": 86294,
+    "char_count": 474,
+    "epobject_id": "22289635",
+    "gid": "2013-02-06a.306.3",
+    "start": 9145660,
+    "end": 9147200
+  },
+  {
+    "start_char_pos": 86768,
+    "char_count": 402,
+    "epobject_id": "22289636",
+    "gid": "2013-02-06a.306.4",
+    "start": 9165390,
+    "end": 9171770
+  },
+  {
+    "start_char_pos": 87170,
+    "char_count": 150,
+    "epobject_id": "22289637",
+    "gid": "2013-02-06a.306.5",
+    "start": 9191220,
+    "end": 9193280
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 11948,
+    "epobject_id": "22289639",
+    "gid": "2013-02-06a.307.1",
+    "start": 1252142,
+    "end": 16927154
+  },
+  {
+    "start_char_pos": 11948,
+    "char_count": 4270,
+    "epobject_id": "22289640",
+    "gid": "2013-02-06a.310.0",
+    "start": 1258522,
+    "end": 11511630
+  },
+  {
+    "start_char_pos": 16218,
+    "char_count": 4925,
+    "epobject_id": "22289641",
+    "gid": "2013-02-06a.311.0",
+    "start": 9622505,
+    "end": 11387500
+  },
+  {
+    "start_char_pos": 21143,
+    "char_count": 535,
+    "epobject_id": "22289642",
+    "gid": "2013-02-06a.313.0",
+    "start": 10500730,
+    "end": 10520750
+  },
+  {
+    "start_char_pos": 21678,
+    "char_count": 653,
+    "epobject_id": "22289643",
+    "gid": "2013-02-06a.313.1",
+    "start": 10543810,
+    "end": 10569780
+  },
+  {
+    "start_char_pos": 22331,
+    "char_count": 574,
+    "epobject_id": "22289644",
+    "gid": "2013-02-06a.313.2",
+    "start": 10583240,
+    "end": 10619800
+  },
+  {
+    "start_char_pos": 22905,
+    "char_count": 779,
+    "epobject_id": "22289645",
+    "gid": "2013-02-06a.313.3",
+    "start": 10630870,
+    "end": 10677140
+  },
+  {
+    "start_char_pos": 23684,
+    "char_count": 1061,
+    "epobject_id": "22289646",
+    "gid": "2013-02-06a.314.0",
+    "start": 10683180,
+    "end": 10720030
+  },
+  {
+    "start_char_pos": 24745,
+    "char_count": 873,
+    "epobject_id": "22289647",
+    "gid": "2013-02-06a.314.1",
+    "start": 10755710,
+    "end": 10822930
+  },
+  {
+    "start_char_pos": 25618,
+    "char_count": 581,
+    "epobject_id": "22289648",
+    "gid": "2013-02-06a.314.2",
+    "start": 10492250,
+    "end": 10861090
+  },
+  {
+    "start_char_pos": 26199,
+    "char_count": 616,
+    "epobject_id": "22289649",
+    "gid": "2013-02-06a.315.0",
+    "start": 10874360,
+    "end": 10913360
+  },
+  {
+    "start_char_pos": 26815,
+    "char_count": 804,
+    "epobject_id": "22289650",
+    "gid": "2013-02-06a.315.1",
+    "start": 10914670,
+    "end": 10964180
+  },
+  {
+    "start_char_pos": 27619,
+    "char_count": 758,
+    "epobject_id": "22289651",
+    "gid": "2013-02-06a.315.2",
+    "start": 10983260,
+    "end": 11012460
+  },
+  {
+    "start_char_pos": 28377,
+    "char_count": 576,
+    "epobject_id": "22289652",
+    "gid": "2013-02-06a.315.3",
+    "start": 11012460,
+    "end": 11056200
+  },
+  {
+    "start_char_pos": 28953,
+    "char_count": 770,
+    "epobject_id": "22289653",
+    "gid": "2013-02-06a.315.4",
+    "start": 11062340,
+    "end": 11113860
+  },
+  {
+    "start_char_pos": 29723,
+    "char_count": 282,
+    "epobject_id": "22289654",
+    "gid": "2013-02-06a.316.0",
+    "start": 11120380,
+    "end": 11130360
+  },
+  {
+    "start_char_pos": 30005,
+    "char_count": 1405,
+    "epobject_id": "22289655",
+    "gid": "2013-02-06a.316.1",
+    "start": 11132570,
+    "end": 11234950
+  },
+  {
+    "start_char_pos": 31410,
+    "char_count": 676,
+    "epobject_id": "22289656",
+    "gid": "2013-02-06a.316.2",
+    "start": 11245540,
+    "end": 11259560
+  },
+  {
+    "start_char_pos": 32086,
+    "char_count": 826,
+    "epobject_id": "22289657",
+    "gid": "2013-02-06a.316.3",
+    "start": 11285490,
+    "end": 11343150
+  },
+  {
+    "start_char_pos": 32912,
+    "char_count": 330,
+    "epobject_id": "22289658",
+    "gid": "2013-02-06a.317.0",
+    "start": 11350130,
+    "end": 11352810
+  },
+  {
+    "start_char_pos": 33242,
+    "char_count": 155,
+    "epobject_id": "22289659",
+    "gid": "2013-02-06a.317.1",
+    "start": 11368980,
+    "end": 11380510
+  },
+  {
+    "start_char_pos": 33397,
+    "char_count": 410,
+    "epobject_id": "22289660",
+    "gid": "2013-02-06a.317.2",
+    "start": 11387500,
+    "end": 11389180
+  },
+  {
+    "start_char_pos": 33807,
+    "char_count": 385,
+    "epobject_id": "22289661",
+    "gid": "2013-02-06a.317.3",
+    "start": 11422560,
+    "end": 11446000
+  },
+  {
+    "start_char_pos": 34192,
+    "char_count": 411,
+    "epobject_id": "22289662",
+    "gid": "2013-02-06a.317.4",
+    "start": 11455240,
+    "end": 11474550
+  },
+  {
+    "start_char_pos": 34603,
+    "char_count": 236,
+    "epobject_id": "22289663",
+    "gid": "2013-02-06a.318.0",
+    "start": 11493070,
+    "end": 11497100
+  },
+  {
+    "start_char_pos": 34839,
+    "char_count": 460,
+    "epobject_id": "22289664",
+    "gid": "2013-02-06a.318.1",
+    "start": 11501650,
+    "end": 11518710
+  },
+  {
+    "start_char_pos": 35299,
+    "char_count": 460,
+    "epobject_id": "22289665",
+    "gid": "2013-02-06a.318.2",
+    "start": 11530760,
+    "end": 11556120
+  },
+  {
+    "start_char_pos": 35759,
+    "char_count": 441,
+    "epobject_id": "22289666",
+    "gid": "2013-02-06a.318.3",
+    "start": 11561130,
+    "end": 11586680
+  },
+  {
+    "start_char_pos": 36200,
+    "char_count": 165,
+    "epobject_id": "22289667",
+    "gid": "2013-02-06a.318.4",
+    "start": 11601450,
+    "end": 11605810
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 581,
+    "epobject_id": "22289669",
+    "gid": "2013-02-06a.319.1",
+    "start": 11616920,
+    "end": 11632720
+  },
+  {
+    "start_char_pos": 581,
+    "char_count": 265,
+    "epobject_id": "22289670",
+    "gid": "2013-02-06a.319.2",
+    "start": 11642940,
+    "end": 11651470
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 718,
+    "epobject_id": "22289673",
+    "gid": "2013-02-06a.320.2",
+    "start": 11662630,
+    "end": 11693940
+  },
+  {
+    "start_char_pos": 718,
+    "char_count": 73,
+    "epobject_id": "22289674",
+    "gid": "2013-02-06a.320.3",
+    "start": 3227430,
+    "end": 3227430
+  },
+  {
+    "start_char_pos": 791,
+    "char_count": 2796,
+    "epobject_id": "22289675",
+    "gid": "2013-02-06a.320.4",
+    "start": 3227430,
+    "end": 11932179
+  },
+  {
+    "start_char_pos": 3587,
+    "char_count": 6,
+    "epobject_id": "22289676",
+    "gid": "2013-02-06a.321.0",
+    "start": 10788430,
+    "end": 10788430
+  },
+  {
+    "start_char_pos": 3593,
+    "char_count": 4274,
+    "epobject_id": "22289677",
+    "gid": "2013-02-06a.321.1",
+    "start": 10788430,
+    "end": 12260239
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 2819,
+    "epobject_id": "22289679",
+    "gid": "2013-02-06a.323.1",
+    "start": 12361919,
+    "end": 12801879
+  },
+  {
+    "start_char_pos": 2819,
+    "char_count": 526,
+    "epobject_id": "22289680",
+    "gid": "2013-02-06a.323.2",
+    "start": 12543249,
+    "end": 12578359
+  },
+  {
+    "start_char_pos": 3345,
+    "char_count": 286,
+    "epobject_id": "22289681",
+    "gid": "2013-02-06a.324.0",
+    "start": 12618439,
+    "end": 12618439
+  },
+  {
+    "start_char_pos": 3631,
+    "char_count": 266,
+    "epobject_id": "22289682",
+    "gid": "2013-02-06a.324.1",
+    "start": 12618439,
+    "end": 12620969
+  },
+  {
+    "start_char_pos": 3897,
+    "char_count": 1083,
+    "epobject_id": "22289683",
+    "gid": "2013-02-06a.324.2",
+    "start": 12659179,
+    "end": 12791429
+  },
+  {
+    "start_char_pos": 4980,
+    "char_count": 626,
+    "epobject_id": "22289684",
+    "gid": "2013-02-06a.324.3",
+    "start": 12735309,
+    "end": 12772059
+  },
+  {
+    "start_char_pos": 5606,
+    "char_count": 601,
+    "epobject_id": "22289685",
+    "gid": "2013-02-06a.324.4",
+    "start": 12801879,
+    "end": 12837419
+  },
+  {
+    "start_char_pos": 6207,
+    "char_count": 243,
+    "epobject_id": "22289686",
+    "gid": "2013-02-06a.325.0",
+    "start": 12851899,
+    "end": 12865079
+  },
+  {
+    "start_char_pos": 6450,
+    "char_count": 601,
+    "epobject_id": "22289687",
+    "gid": "2013-02-06a.325.1",
+    "start": 12884999,
+    "end": 12921849
+  },
+  {
+    "start_char_pos": 7051,
+    "char_count": 375,
+    "epobject_id": "22289688",
+    "gid": "2013-02-06a.325.2",
+    "start": 13112919,
+    "end": 13112919
+  },
+  {
+    "start_char_pos": 7426,
+    "char_count": 256,
+    "epobject_id": "22289689",
+    "gid": "2013-02-06a.325.3",
+    "start": 13112919,
+    "end": 13113769
+  },
+  {
+    "start_char_pos": 7682,
+    "char_count": 347,
+    "epobject_id": "22289690",
+    "gid": "2013-02-06a.325.4",
+    "start": 13004299,
+    "end": 13006129
+  },
+  {
+    "start_char_pos": 8029,
+    "char_count": 235,
+    "epobject_id": "22289691",
+    "gid": "2013-02-06a.325.5",
+    "start": 13030929,
+    "end": 13036369
+  },
+  {
+    "start_char_pos": 8264,
+    "char_count": 827,
+    "epobject_id": "22289692",
+    "gid": "2013-02-06a.325.6",
+    "start": 13064819,
+    "end": 13103639
+  },
+  {
+    "start_char_pos": 9091,
+    "char_count": 1920,
+    "epobject_id": "22289693",
+    "gid": "2013-02-06a.326.0",
+    "start": 13133169,
+    "end": 13263539
+  },
+  {
+    "start_char_pos": 11011,
+    "char_count": 222,
+    "epobject_id": "22289694",
+    "gid": "2013-02-06a.326.1",
+    "start": 13263539,
+    "end": 13276569
+  },
+  {
+    "start_char_pos": 11233,
+    "char_count": 905,
+    "epobject_id": "22289695",
+    "gid": "2013-02-06a.326.2",
+    "start": 12662459,
+    "end": 13363168
+  },
+  {
+    "start_char_pos": 12138,
+    "char_count": 393,
+    "epobject_id": "22289696",
+    "gid": "2013-02-06a.327.0",
+    "start": 13385058,
+    "end": 13399258
+  },
+  {
+    "start_char_pos": 12531,
+    "char_count": 5018,
+    "epobject_id": "22289697",
+    "gid": "2013-02-06a.327.1",
+    "start": 1736822,
+    "end": 18664570
+  },
+  {
+    "start_char_pos": 17549,
+    "char_count": 424,
+    "epobject_id": "22289698",
+    "gid": "2013-02-06a.328.0",
+    "start": 13790745,
+    "end": 13803125
+  },
+  {
+    "start_char_pos": 17973,
+    "char_count": 827,
+    "epobject_id": "22289699",
+    "gid": "2013-02-06a.328.1",
+    "start": 13818355,
+    "end": 13875875
+  },
+  {
+    "start_char_pos": 18800,
+    "char_count": 502,
+    "epobject_id": "22289700",
+    "gid": "2013-02-06a.329.0",
+    "start": 13892235,
+    "end": 13923645
+  },
+  {
+    "start_char_pos": 19302,
+    "char_count": 1732,
+    "epobject_id": "22289701",
+    "gid": "2013-02-06a.329.1",
+    "start": 13938555,
+    "end": 14053965
+  },
+  {
+    "start_char_pos": 21034,
+    "char_count": 459,
+    "epobject_id": "22289702",
+    "gid": "2013-02-06a.329.2",
+    "start": 14060765,
+    "end": 14080595
+  },
+  {
+    "start_char_pos": 21493,
+    "char_count": 89,
+    "epobject_id": "22289703",
+    "gid": "2013-02-06a.329.3",
+    "start": 14111912,
+    "end": 14111912
+  },
+  {
+    "start_char_pos": 21582,
+    "char_count": 597,
+    "epobject_id": "22289704",
+    "gid": "2013-02-06a.329.4",
+    "start": 14111912,
+    "end": 14138262
+  },
+  {
+    "start_char_pos": 22179,
+    "char_count": 241,
+    "epobject_id": "22289705",
+    "gid": "2013-02-06a.330.0",
+    "start": 1511802,
+    "end": 1511802
+  },
+  {
+    "start_char_pos": 22420,
+    "char_count": 5292,
+    "epobject_id": "22289706",
+    "gid": "2013-02-06a.330.1",
+    "start": 1511802,
+    "end": 19137244
+  },
+  {
+    "start_char_pos": 27712,
+    "char_count": 707,
+    "epobject_id": "22289707",
+    "gid": "2013-02-06a.331.0",
+    "start": 14570802,
+    "end": 14573572
+  },
+  {
+    "start_char_pos": 28419,
+    "char_count": 11,
+    "epobject_id": "22289708",
+    "gid": "2013-02-06a.331.1",
+    "start": 456011.625,
+    "end": 14592372
+  },
+  {
+    "start_char_pos": 28430,
+    "char_count": 341,
+    "epobject_id": "22289709",
+    "gid": "2013-02-06a.331.2",
+    "start": 14592372,
+    "end": 14592372
+  },
+  {
+    "start_char_pos": 28771,
+    "char_count": 662,
+    "epobject_id": "22289710",
+    "gid": "2013-02-06a.332.0",
+    "start": 14592372,
+    "end": 14628602
+  },
+  {
+    "start_char_pos": 29433,
+    "char_count": 2527,
+    "epobject_id": "22289711",
+    "gid": "2013-02-06a.332.1",
+    "start": 8785350,
+    "end": 17090997
+  },
+  {
+    "start_char_pos": 31960,
+    "char_count": 627,
+    "epobject_id": "22289712",
+    "gid": "2013-02-06a.333.0",
+    "start": 14860051,
+    "end": 14872611
+  },
+  {
+    "start_char_pos": 32587,
+    "char_count": 604,
+    "epobject_id": "22289713",
+    "gid": "2013-02-06a.333.1",
+    "start": 14883441,
+    "end": 14930411
+  },
+  {
+    "start_char_pos": 33191,
+    "char_count": 382,
+    "epobject_id": "22289714",
+    "gid": "2013-02-06a.333.2",
+    "start": 14930411,
+    "end": 14945601
+  },
+  {
+    "start_char_pos": 33573,
+    "char_count": 5487,
+    "epobject_id": "22289715",
+    "gid": "2013-02-06a.333.3",
+    "start": 3200000,
+    "end": 19455224
+  },
+  {
+    "start_char_pos": 39060,
+    "char_count": 290,
+    "epobject_id": "22289716",
+    "gid": "2013-02-06a.335.0",
+    "start": 15354899,
+    "end": 15356729
+  },
+  {
+    "start_char_pos": 39350,
+    "char_count": 401,
+    "epobject_id": "22289717",
+    "gid": "2013-02-06a.335.1",
+    "start": 15300521,
+    "end": 15393529
+  },
+  {
+    "start_char_pos": 39751,
+    "char_count": 417,
+    "epobject_id": "22289718",
+    "gid": "2013-02-06a.335.2",
+    "start": 15410549,
+    "end": 15418519
+  },
+  {
+    "start_char_pos": 40168,
+    "char_count": 147,
+    "epobject_id": "22289719",
+    "gid": "2013-02-06a.335.3",
+    "start": 15435109,
+    "end": 15438109
+  },
+  {
+    "start_char_pos": 40315,
+    "char_count": 36,
+    "epobject_id": "22289721",
+    "gid": "2013-02-06a.335.5",
+    "start": 15448939,
+    "end": 15448939
+  },
+  {
+    "start_char_pos": 40351,
+    "char_count": 604,
+    "epobject_id": "22289722",
+    "gid": "2013-02-06a.335.6",
+    "start": 15448939,
+    "end": 15469379
+  },
+  {
+    "start_char_pos": 40955,
+    "char_count": 231,
+    "epobject_id": "22289723",
+    "gid": "2013-02-06a.335.7",
+    "start": 15486209,
+    "end": 15491459
+  },
+  {
+    "start_char_pos": 41186,
+    "char_count": 608,
+    "epobject_id": "22289724",
+    "gid": "2013-02-06a.335.8",
+    "start": 15521369,
+    "end": 15541809
+  },
+  {
+    "start_char_pos": 41794,
+    "char_count": 1838,
+    "epobject_id": "22289725",
+    "gid": "2013-02-06a.336.0",
+    "start": 15550099,
+    "end": 15679959
+  },
+  {
+    "start_char_pos": 43632,
+    "char_count": 572,
+    "epobject_id": "22289726",
+    "gid": "2013-02-06a.336.1",
+    "start": 15714369,
+    "end": 15720739
+  },
+  {
+    "start_char_pos": 44204,
+    "char_count": 1276,
+    "epobject_id": "22289727",
+    "gid": "2013-02-06a.336.2",
+    "start": 15724399,
+    "end": 15803247
+  },
+  {
+    "start_char_pos": 45480,
+    "char_count": 363,
+    "epobject_id": "22289728",
+    "gid": "2013-02-06a.337.0",
+    "start": 15815437,
+    "end": 15831617
+  },
+  {
+    "start_char_pos": 45843,
+    "char_count": 560,
+    "epobject_id": "22289729",
+    "gid": "2013-02-06a.337.1",
+    "start": 15838927,
+    "end": 15873617
+  },
+  {
+    "start_char_pos": 46403,
+    "char_count": 2652,
+    "epobject_id": "22289730",
+    "gid": "2013-02-06a.337.2",
+    "start": 13377318,
+    "end": 16110167
+  },
+  {
+    "start_char_pos": 49055,
+    "char_count": 454,
+    "epobject_id": "22289731",
+    "gid": "2013-02-06a.338.0",
+    "start": 16125307,
+    "end": 16128867
+  },
+  {
+    "start_char_pos": 49509,
+    "char_count": 2116,
+    "epobject_id": "22289732",
+    "gid": "2013-02-06a.338.1",
+    "start": 16152587,
+    "end": 16296787
+  },
+  {
+    "start_char_pos": 51625,
+    "char_count": 494,
+    "epobject_id": "22289733",
+    "gid": "2013-02-06a.339.0",
+    "start": 16338177,
+    "end": 16367437
+  },
+  {
+    "start_char_pos": 52119,
+    "char_count": 1587,
+    "epobject_id": "22289734",
+    "gid": "2013-02-06a.339.1",
+    "start": 16377607,
+    "end": 16489594
+  },
+  {
+    "start_char_pos": 53706,
+    "char_count": 790,
+    "epobject_id": "22289735",
+    "gid": "2013-02-06a.339.2",
+    "start": 16504964,
+    "end": 16562014
+  },
+  {
+    "start_char_pos": 54496,
+    "char_count": 828,
+    "epobject_id": "22289736",
+    "gid": "2013-02-06a.340.0",
+    "start": 16567694,
+    "end": 16617194
+  },
+  {
+    "start_char_pos": 55324,
+    "char_count": 329,
+    "epobject_id": "22289737",
+    "gid": "2013-02-06a.340.1",
+    "start": 16634724,
+    "end": 16654834
+  },
+  {
+    "start_char_pos": 55653,
+    "char_count": 687,
+    "epobject_id": "22289738",
+    "gid": "2013-02-06a.340.2",
+    "start": 16663744,
+    "end": 16712034
+  },
+  {
+    "start_char_pos": 56340,
+    "char_count": 397,
+    "epobject_id": "22289739",
+    "gid": "2013-02-06a.340.3",
+    "start": 16723464,
+    "end": 16753654
+  },
+  {
+    "start_char_pos": 56737,
+    "char_count": 1558,
+    "epobject_id": "22289740",
+    "gid": "2013-02-06a.340.4",
+    "start": 16753654,
+    "end": 16893824
+  },
+  {
+    "start_char_pos": 58295,
+    "char_count": 29,
+    "epobject_id": "22289741",
+    "gid": "2013-02-06a.341.0",
+    "start": 16500234,
+    "end": 16500234
+  },
+  {
+    "start_char_pos": 58324,
+    "char_count": 114,
+    "epobject_id": "22289742",
+    "gid": "2013-02-06a.341.1",
+    "start": 16500234,
+    "end": 16504964
+  },
+  {
+    "start_char_pos": 58438,
+    "char_count": 533,
+    "epobject_id": "22289743",
+    "gid": "2013-02-06a.341.2",
+    "start": 16927154,
+    "end": 16931794
+  },
+  {
+    "start_char_pos": 58971,
+    "char_count": 2760,
+    "epobject_id": "22289744",
+    "gid": "2013-02-06a.341.3",
+    "start": 11060330,
+    "end": 17295007
+  },
+  {
+    "start_char_pos": 61731,
+    "char_count": 11,
+    "epobject_id": "22289745",
+    "gid": "2013-02-06a.342.0",
+    "start": 406196.0416666666,
+    "end": 2806445.378787879
+  },
+  {
+    "start_char_pos": 61742,
+    "char_count": 65,
+    "epobject_id": "22289746",
+    "gid": "2013-02-06a.342.1",
+    "start": 2806445.378787879,
+    "end": 9748705
+  },
+  {
+    "start_char_pos": 61807,
+    "char_count": 188,
+    "epobject_id": "22289747",
+    "gid": "2013-02-06a.342.2",
+    "start": 9748705,
+    "end": 9748705
+  },
+  {
+    "start_char_pos": 61995,
+    "char_count": 6778,
+    "epobject_id": "22289748",
+    "gid": "2013-02-06a.342.3",
+    "start": 9748705,
+    "end": 17746262
+  },
+  {
+    "start_char_pos": 68773,
+    "char_count": 221,
+    "epobject_id": "22289750",
+    "gid": "2013-02-06a.344.1",
+    "start": 5786132,
+    "end": 5786132
+  },
+  {
+    "start_char_pos": 68994,
+    "char_count": 3029,
+    "epobject_id": "22289751",
+    "gid": "2013-02-06a.344.2",
+    "start": 5786132,
+    "end": 18013232
+  },
+  {
+    "start_char_pos": 72023,
+    "char_count": 574,
+    "epobject_id": "22289752",
+    "gid": "2013-02-06a.345.0",
+    "start": 18034612,
+    "end": 18060342
+  },
+  {
+    "start_char_pos": 72597,
+    "char_count": 4949,
+    "epobject_id": "22289753",
+    "gid": "2013-02-06a.345.1",
+    "start": 4191369,
+    "end": 20412706
+  },
+  {
+    "start_char_pos": 77546,
+    "char_count": 3140,
+    "epobject_id": "22289754",
+    "gid": "2013-02-06a.347.0",
+    "start": 12817309,
+    "end": 19507634
+  },
+  {
+    "start_char_pos": 80686,
+    "char_count": 247,
+    "epobject_id": "22289755",
+    "gid": "2013-02-06a.348.0",
+    "start": 3563075,
+    "end": 3563075
+  },
+  {
+    "start_char_pos": 80933,
+    "char_count": 5223,
+    "epobject_id": "22289756",
+    "gid": "2013-02-06a.348.1",
+    "start": 3563075,
+    "end": 19201234
+  },
+  {
+    "start_char_pos": 86156,
+    "char_count": 266,
+    "epobject_id": "22289757",
+    "gid": "2013-02-06a.349.0",
+    "start": 13024839,
+    "end": 13024839
+  },
+  {
+    "start_char_pos": 86422,
+    "char_count": 1586,
+    "epobject_id": "22289758",
+    "gid": "2013-02-06a.350.0",
+    "start": 13024839,
+    "end": 19255564
+  },
+  {
+    "start_char_pos": 88008,
+    "char_count": 214,
+    "epobject_id": "22289759",
+    "gid": "2013-02-06a.350.1",
+    "start": 19295324,
+    "end": 19296444
+  },
+  {
+    "start_char_pos": 88222,
+    "char_count": 1934,
+    "epobject_id": "22289760",
+    "gid": "2013-02-06a.350.2",
+    "start": 19286134,
+    "end": 19423014
+  },
+  {
+    "start_char_pos": 90156,
+    "char_count": 332,
+    "epobject_id": "22289761",
+    "gid": "2013-02-06a.351.0",
+    "start": 19434034,
+    "end": 19435914
+  },
+  {
+    "start_char_pos": 90488,
+    "char_count": 1022,
+    "epobject_id": "22289762",
+    "gid": "2013-02-06a.351.1",
+    "start": 17647022,
+    "end": 19512744
+  },
+  {
+    "start_char_pos": 91510,
+    "char_count": 9798,
+    "epobject_id": "22289763",
+    "gid": "2013-02-06a.351.2",
+    "start": 224288,
+    "end": 20441636
+  },
+  {
+    "start_char_pos": 101308,
+    "char_count": 5528,
+    "epobject_id": "22289764",
+    "gid": "2013-02-06a.354.0",
+    "start": 1456862,
+    "end": 20836306
+  },
+  {
+    "start_char_pos": 106836,
+    "char_count": 11242,
+    "epobject_id": "22289765",
+    "gid": "2013-02-06a.356.0",
+    "start": 1422732,
+    "end": 21162428
+  },
+  {
+    "start_char_pos": 118078,
+    "char_count": 61,
+    "epobject_id": "22289766",
+    "gid": "2013-02-06a.359.0",
+    "start": 14909931,
+    "end": 14909931
+  },
+  {
+    "start_char_pos": 118139,
+    "char_count": 3203,
+    "epobject_id": "22289767",
+    "gid": "2013-02-06a.359.1",
+    "start": 14909931,
+    "end": 16782114
+  },
+  {
+    "start_char_pos": 121342,
+    "char_count": 61,
+    "epobject_id": "22289768",
+    "gid": "2013-02-06a.360.0",
+    "start": 12826919,
+    "end": 12826919
+  },
+  {
+    "start_char_pos": 121403,
+    "char_count": 4734,
+    "epobject_id": "22289769",
+    "gid": "2013-02-06a.360.1",
+    "start": 12826919,
+    "end": 19499474
+  },
+  {
+    "start_char_pos": 126137,
+    "char_count": 734,
+    "epobject_id": "22289770",
+    "gid": "2013-02-06a.361.0",
+    "start": 15847877,
+    "end": 15852567
+  },
+  {
+    "start_char_pos": 126871,
+    "char_count": 3409,
+    "epobject_id": "22289771",
+    "gid": "2013-02-06a.362.0",
+    "start": 15897567,
+    "end": 18887530
+  },
+  {
+    "start_char_pos": 130280,
+    "char_count": 9611,
+    "epobject_id": "22289772",
+    "gid": "2013-02-06a.363.0",
+    "start": 229488,
+    "end": 20200396
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 334,
+    "epobject_id": "22289775",
+    "gid": "2013-02-06a.366.2",
+    "start": 738112.9887482419,
+    "end": 998883.4458509142
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 118,
+    "epobject_id": "22289779",
+    "gid": "2013-02-06a.366.6",
+    "start": 998883.4458509142,
+    "end": 1062971.1005625878
+  },
+  {
+    "start_char_pos": 118,
+    "char_count": 29,
+    "epobject_id": "22289781",
+    "gid": "2013-02-06a.366.8",
+    "start": 1062971.1005625878,
+    "end": 2797757.6160337552
+  },
+  {
+    "start_char_pos": 147,
+    "char_count": 785,
+    "epobject_id": "22289783",
+    "gid": "2013-02-06a.366.10",
+    "start": 2797757.6160337552,
+    "end": 3111566.132208158
+  },
+  {
+    "start_char_pos": 932,
+    "char_count": 142,
+    "epobject_id": "22289784",
+    "gid": "2013-02-06a.367.0",
+    "start": 3111566.132208158,
+    "end": 6176723.962728552
+  },
+  {
+    "start_char_pos": 1074,
+    "char_count": 1387,
+    "epobject_id": "22289785",
+    "gid": "2013-02-06a.367.1",
+    "start": 6176723.962728552,
+    "end": 6201033.073136427
+  },
+  {
+    "start_char_pos": 2461,
+    "char_count": 11,
+    "epobject_id": "22289787",
+    "gid": "2013-02-06a.367.3",
+    "start": 6201033.073136427,
+    "end": 6285010
+  },
+  {
+    "start_char_pos": 2472,
+    "char_count": 38,
+    "epobject_id": "22289789",
+    "gid": "2013-02-06a.367.5",
+    "start": 6285010,
+    "end": 6285010
+  },
+  {
+    "start_char_pos": 2510,
+    "char_count": 5817,
+    "epobject_id": "22289790",
+    "gid": "2013-02-06a.367.6",
+    "start": 6285010,
+    "end": 20436896
+  },
+  {
+    "start_char_pos": 8327,
+    "char_count": 51,
+    "epobject_id": "22289791",
+    "gid": "2013-02-06a.369.0",
+    "start": 802507.843179377,
+    "end": 896920.5306122449
+  },
+  {
+    "start_char_pos": 8378,
+    "char_count": 6,
+    "epobject_id": "22289792",
+    "gid": "2013-02-06a.369.1",
+    "start": 896920.5306122449,
+    "end": 5350052.287862513
+  },
+  {
+    "start_char_pos": 8384,
+    "char_count": 283,
+    "epobject_id": "22289793",
+    "gid": "2013-02-06a.369.2",
+    "start": 5350052.287862513,
+    "end": 6797713.495166488
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 92,
+    "epobject_id": "22289806",
+    "gid": "2013-02-06a.374.2",
+    "start": 6797713.495166488,
+    "end": 10652898.232008593
+  },
+  {
+    "start_char_pos": 92,
+    "char_count": 245,
+    "epobject_id": "22289807",
+    "gid": "2013-02-06a.374.3",
+    "start": 10652898.232008593,
+    "end": 11109226.221267454
+  },
+  {
+    "start_char_pos": 337,
+    "char_count": 29,
+    "epobject_id": "22289808",
+    "gid": "2013-02-06a.374.4",
+    "start": 11109226.221267454,
+    "end": 14272051.250268528
+  },
+  {
+    "start_char_pos": 366,
+    "char_count": 201,
+    "epobject_id": "22289810",
+    "gid": "2013-02-06a.374.6",
+    "start": 14272051.250268528,
+    "end": 14649702
+  },
+  {
+    "start_char_pos": 567,
+    "char_count": 24,
+    "epobject_id": "22289811",
+    "gid": "2013-02-06a.374.7",
+    "start": 14649702,
+    "end": 14649702
+  },
+  {
+    "start_char_pos": 591,
+    "char_count": 173,
+    "epobject_id": "22289813",
+    "gid": "2013-02-06a.374.9",
+    "start": 14649702,
+    "end": 14655792
+  },
+  {
+    "start_char_pos": 764,
+    "char_count": 449,
+    "epobject_id": "22289815",
+    "gid": "2013-02-06a.374.11",
+    "start": 2015974.6456692913,
+    "end": 3344991.3385826773
+  },
+  {
+    "start_char_pos": 1213,
+    "char_count": 296,
+    "epobject_id": "22289816",
+    "gid": "2013-02-06a.375.0",
+    "start": 3344991.3385826773,
+    "end": 10272939.842519686
+  },
+  {
+    "start_char_pos": 1509,
+    "char_count": 1543,
+    "epobject_id": "22289817",
+    "gid": "2013-02-06a.375.1",
+    "start": 10272939.842519686,
+    "end": 11067655.905511811
+  },
+  {
+    "start_char_pos": 3052,
+    "char_count": 177,
+    "epobject_id": "22289818",
+    "gid": "2013-02-06a.375.2",
+    "start": 11067655.905511811,
+    "end": 12917503.46456693
+  },
+  {
+    "start_char_pos": 3229,
+    "char_count": 412,
+    "epobject_id": "22289819",
+    "gid": "2013-02-06a.375.3",
+    "start": 12917503.46456693,
+    "end": 15494718.267716534
+  },
+  {
+    "start_char_pos": 3641,
+    "char_count": 574,
+    "epobject_id": "22289821",
+    "gid": "2013-02-06a.375.5",
+    "start": 15494718.267716534,
+    "end": 16985372.12598425
+  },
+  {
+    "start_char_pos": 4215,
+    "char_count": 332,
+    "epobject_id": "22289822",
+    "gid": "2013-02-06a.376.0",
+    "start": 16985372.12598425,
+    "end": 18071933.07086614
+  },
+  {
+    "start_char_pos": 4547,
+    "char_count": 242,
+    "epobject_id": "22289823",
+    "gid": "2013-02-06a.376.1",
+    "start": 18071933.07086614,
+    "end": 18817260
+  },
+  {
+    "start_char_pos": 4789,
+    "char_count": 166,
+    "epobject_id": "22289824",
+    "gid": "2013-02-06a.376.2",
+    "start": 18817260,
+    "end": 18817260
+  },
+  {
+    "start_char_pos": 4955,
+    "char_count": 395,
+    "epobject_id": "22289825",
+    "gid": "2013-02-06a.376.3",
+    "start": 18817260,
+    "end": 18819880
+  },
+  {
+    "start_char_pos": 5350,
+    "char_count": 316,
+    "epobject_id": "22289826",
+    "gid": "2013-02-06a.376.4",
+    "start": 8248388,
+    "end": 8248388
+  },
+  {
+    "start_char_pos": 5666,
+    "char_count": 2646,
+    "epobject_id": "22289827",
+    "gid": "2013-02-06a.376.5",
+    "start": 8248388,
+    "end": 8252888
+  },
+  {
+    "start_char_pos": 8312,
+    "char_count": 118,
+    "epobject_id": "22289828",
+    "gid": "2013-02-06a.377.0",
+    "start": 21783.64285714286,
+    "end": 47628.642857142855
+  },
+  {
+    "start_char_pos": 8430,
+    "char_count": 140,
+    "epobject_id": "22289829",
+    "gid": "2013-02-06a.377.1",
+    "start": 47628.642857142855,
+    "end": 173530.7142857143
+  },
+  {
+    "start_char_pos": 8570,
+    "char_count": 682,
+    "epobject_id": "22289830",
+    "gid": "2013-02-06a.377.2",
+    "start": 173530.7142857143,
+    "end": 322508.6785714286
+  },
+  {
+    "start_char_pos": 9252,
+    "char_count": 807,
+    "epobject_id": "22289831",
+    "gid": "2013-02-06a.377.3",
+    "start": 322508.6785714286,
+    "end": 475548
+  },
+  {
+    "start_char_pos": 10059,
+    "char_count": 829,
+    "epobject_id": "22289832",
+    "gid": "2013-02-06a.378.0",
+    "start": 475548,
+    "end": 475548
+  },
+  {
+    "start_char_pos": 10888,
+    "char_count": 4113,
+    "epobject_id": "22289833",
+    "gid": "2013-02-06a.378.1",
+    "start": 475548,
+    "end": 19843796
+  },
+  {
+    "start_char_pos": 15001,
+    "char_count": 125,
+    "epobject_id": "22289834",
+    "gid": "2013-02-06a.379.0",
+    "start": 5381274.420529801,
+    "end": 13001159
+  },
+  {
+    "start_char_pos": 15126,
+    "char_count": 177,
+    "epobject_id": "22289835",
+    "gid": "2013-02-06a.379.1",
+    "start": 13001159,
+    "end": 13001159
+  },
+  {
+    "start_char_pos": 15303,
+    "char_count": 1987,
+    "epobject_id": "22289836",
+    "gid": "2013-02-06a.379.2",
+    "start": 13001159,
+    "end": 13004299
+  },
+  {
+    "start_char_pos": 17290,
+    "char_count": 198,
+    "epobject_id": "22289837",
+    "gid": "2013-02-06a.380.0",
+    "start": 16655964,
+    "end": 16655964
+  },
+  {
+    "start_char_pos": 17488,
+    "char_count": 1350,
+    "epobject_id": "22289838",
+    "gid": "2013-02-06a.380.1",
+    "start": 16655964,
+    "end": 16657184
+  },
+  {
+    "start_char_pos": 18838,
+    "char_count": 342,
+    "epobject_id": "22289839",
+    "gid": "2013-02-06a.380.2",
+    "start": 485095.94519275427,
+    "end": 628355.2740362285
+  },
+  {
+    "start_char_pos": 19180,
+    "char_count": 101,
+    "epobject_id": "22289840",
+    "gid": "2013-02-06a.380.3",
+    "start": 628355.2740362285,
+    "end": 773033.0120761727
+  },
+  {
+    "start_char_pos": 19281,
+    "char_count": 102,
+    "epobject_id": "22289841",
+    "gid": "2013-02-06a.380.4",
+    "start": 773033.0120761727,
+    "end": 981539.1639572689
+  },
+  {
+    "start_char_pos": 19383,
+    "char_count": 147,
+    "epobject_id": "22289842",
+    "gid": "2013-02-06a.380.5",
+    "start": 981539.1639572689,
+    "end": 1171605.9962842546
+  },
+  {
+    "start_char_pos": 19530,
+    "char_count": 134,
+    "epobject_id": "22289844",
+    "gid": "2013-02-06a.381.1",
+    "start": 1171605.9962842546,
+    "end": 1279405.0952159776
+  },
+  {
+    "start_char_pos": 19664,
+    "char_count": 76,
+    "epobject_id": "22289845",
+    "gid": "2013-02-06a.381.2",
+    "start": 1279405.0952159776,
+    "end": 1416990.7872735718
+  },
+  {
+    "start_char_pos": 19740,
+    "char_count": 97,
+    "epobject_id": "22289847",
+    "gid": "2013-02-06a.381.4",
+    "start": 1416990.7872735718,
+    "end": 1921944.4612169068
+  },
+  {
+    "start_char_pos": 19837,
+    "char_count": 356,
+    "epobject_id": "22289848",
+    "gid": "2013-02-06a.381.5",
+    "start": 1921944.4612169068,
+    "end": 1971588.7830933582
+  },
+  {
+    "start_char_pos": 20193,
+    "char_count": 35,
+    "epobject_id": "22289849",
+    "gid": "2013-02-06a.381.6",
+    "start": 1971588.7830933582,
+    "end": 3340353.6576869483
+  },
+  {
+    "start_char_pos": 20228,
+    "char_count": 965,
+    "epobject_id": "22289851",
+    "gid": "2013-02-06a.381.8",
+    "start": 3340353.6576869483,
+    "end": 4121897.1249419414
+  },
+  {
+    "start_char_pos": 21193,
+    "char_count": 551,
+    "epobject_id": "22289852",
+    "gid": "2013-02-06a.381.9",
+    "start": 4121897.1249419414,
+    "end": 5846682.707849512
+  },
+  {
+    "start_char_pos": 21744,
+    "char_count": 1216,
+    "epobject_id": "22289854",
+    "gid": "2013-02-06a.382.0",
+    "start": 5846682.707849512,
+    "end": 6107670
+  },
+  {
+    "start_char_pos": 22960,
+    "char_count": 184,
+    "epobject_id": "22289855",
+    "gid": "2013-02-06a.382.1",
+    "start": 6107670,
+    "end": 6107670
+  },
+  {
+    "start_char_pos": 23144,
+    "char_count": 2350,
+    "epobject_id": "22289856",
+    "gid": "2013-02-06a.382.2",
+    "start": 6107670,
+    "end": 11821029
+  },
+  {
+    "start_char_pos": 25494,
+    "char_count": 316,
+    "epobject_id": "22289857",
+    "gid": "2013-02-06a.383.0",
+    "start": 723609.3042168674,
+    "end": 1889169.860692771
+  },
+  {
+    "start_char_pos": 25810,
+    "char_count": 509,
+    "epobject_id": "22289858",
+    "gid": "2013-02-06a.383.1",
+    "start": 1889169.860692771,
+    "end": 2624228.6792168673
+  },
+  {
+    "start_char_pos": 26319,
+    "char_count": 321,
+    "epobject_id": "22289859",
+    "gid": "2013-02-06a.383.2",
+    "start": 2624228.6792168673,
+    "end": 4433251.939759036
+  },
+  {
+    "start_char_pos": 26640,
+    "char_count": 790,
+    "epobject_id": "22289860",
+    "gid": "2013-02-06a.383.3",
+    "start": 4433251.939759036,
+    "end": 5124802.6039156625
+  },
+  {
+    "start_char_pos": 27430,
+    "char_count": 302,
+    "epobject_id": "22289861",
+    "gid": "2013-02-06a.383.4",
+    "start": 5124802.6039156625,
+    "end": 6006415.205572289
+  },
+  {
+    "start_char_pos": 27732,
+    "char_count": 385,
+    "epobject_id": "22289862",
+    "gid": "2013-02-06a.383.5",
+    "start": 6006415.205572289,
+    "end": 6081982
+  },
+  {
+    "start_char_pos": 28117,
+    "char_count": 33,
+    "epobject_id": "22289863",
+    "gid": "2013-02-06a.383.6",
+    "start": 6081982,
+    "end": 6081982
+  },
+  {
+    "start_char_pos": 28150,
+    "char_count": 1202,
+    "epobject_id": "22289864",
+    "gid": "2013-02-06a.383.7",
+    "start": 6081982,
+    "end": 6085692
+  },
+  {
+    "start_char_pos": 29352,
+    "char_count": 11,
+    "epobject_id": "22289865",
+    "gid": "2013-02-06a.384.0",
+    "start": 253782.2734899329,
+    "end": 1315053.5989932886
+  },
+  {
+    "start_char_pos": 29363,
+    "char_count": 46,
+    "epobject_id": "22289866",
+    "gid": "2013-02-06a.384.1",
+    "start": 1315053.5989932886,
+    "end": 1776475.9144295303
+  },
+  {
+    "start_char_pos": 29409,
+    "char_count": 20,
+    "epobject_id": "22289867",
+    "gid": "2013-02-06a.384.2",
+    "start": 1776475.9144295303,
+    "end": 13750385
+  },
+  {
+    "start_char_pos": 29429,
+    "char_count": 519,
+    "epobject_id": "22289868",
+    "gid": "2013-02-06a.384.3",
+    "start": 13750385,
+    "end": 13750385
+  },
+  {
+    "start_char_pos": 29948,
+    "char_count": 529,
+    "epobject_id": "22289869",
+    "gid": "2013-02-06a.384.4",
+    "start": 13750385,
+    "end": 13752825
+  },
+  {
+    "start_char_pos": 30477,
+    "char_count": 330,
+    "epobject_id": "22289870",
+    "gid": "2013-02-06a.384.5",
+    "start": 1533176.1176470588,
+    "end": 2587815.4470588234
+  },
+  {
+    "start_char_pos": 30807,
+    "char_count": 227,
+    "epobject_id": "22289871",
+    "gid": "2013-02-06a.384.6",
+    "start": 2587815.4470588234,
+    "end": 4116345.5764705883
+  },
+  {
+    "start_char_pos": 31034,
+    "char_count": 329,
+    "epobject_id": "22289872",
+    "gid": "2013-02-06a.384.7",
+    "start": 4116345.5764705883,
+    "end": 4167451.4470588234
+  },
+  {
+    "start_char_pos": 31363,
+    "char_count": 11,
+    "epobject_id": "22289873",
+    "gid": "2013-02-06a.385.0",
+    "start": 4167451.4470588234,
+    "end": 4738908
+  },
+  {
+    "start_char_pos": 31374,
+    "char_count": 123,
+    "epobject_id": "22289874",
+    "gid": "2013-02-06a.385.1",
+    "start": 4738908,
+    "end": 4738908
+  },
+  {
+    "start_char_pos": 31497,
+    "char_count": 1228,
+    "epobject_id": "22289875",
+    "gid": "2013-02-06a.385.2",
+    "start": 4738908,
+    "end": 4739148
+  },
+  {
+    "start_char_pos": 32725,
+    "char_count": 288,
+    "epobject_id": "22289876",
+    "gid": "2013-02-06a.385.3",
+    "start": 444063.3077609277,
+    "end": 461024.0590990187
+  },
+  {
+    "start_char_pos": 33013,
+    "char_count": 11,
+    "epobject_id": "22289877",
+    "gid": "2013-02-06a.385.4",
+    "start": 461024.0590990187,
+    "end": 622922.1400535237
+  },
+  {
+    "start_char_pos": 33024,
+    "char_count": 105,
+    "epobject_id": "22289878",
+    "gid": "2013-02-06a.385.5",
+    "start": 622922.1400535237,
+    "end": 3549422.6891168603
+  },
+  {
+    "start_char_pos": 33129,
+    "char_count": 1898,
+    "epobject_id": "22289879",
+    "gid": "2013-02-06a.385.6",
+    "start": 3549422.6891168603,
+    "end": 4308030.839875111
+  },
+  {
+    "start_char_pos": 35027,
+    "char_count": 492,
+    "epobject_id": "22289880",
+    "gid": "2013-02-06a.386.0",
+    "start": 4308030.839875111,
+    "end": 5575461.530776093
+  },
+  {
+    "start_char_pos": 35519,
+    "char_count": 822,
+    "epobject_id": "22289881",
+    "gid": "2013-02-06a.386.1",
+    "start": 5575461.530776093,
+    "end": 6491342.103033006
+  },
+  {
+    "start_char_pos": 36341,
+    "char_count": 594,
+    "epobject_id": "22289882",
+    "gid": "2013-02-06a.386.2",
+    "start": 6491342.103033006,
+    "end": 6913819
+  },
+  {
+    "start_char_pos": 36935,
+    "char_count": 274,
+    "epobject_id": "22289883",
+    "gid": "2013-02-06a.386.3",
+    "start": 6913819,
+    "end": 6913819
+  },
+  {
+    "start_char_pos": 37209,
+    "char_count": 1097,
+    "epobject_id": "22289884",
+    "gid": "2013-02-06a.387.0",
+    "start": 6913819,
+    "end": 6915269
+  },
+  {
+    "start_char_pos": 38306,
+    "char_count": 354,
+    "epobject_id": "22289885",
+    "gid": "2013-02-06a.387.1",
+    "start": 444189.6084573218,
+    "end": 1939878.9115113546
+  },
+  {
+    "start_char_pos": 38660,
+    "char_count": 1192,
+    "epobject_id": "22289886",
+    "gid": "2013-02-06a.387.2",
+    "start": 1939878.9115113546,
+    "end": 2317565.555990603
+  },
+  {
+    "start_char_pos": 39852,
+    "char_count": 301,
+    "epobject_id": "22289887",
+    "gid": "2013-02-06a.387.3",
+    "start": 2317565.555990603,
+    "end": 2663882.8778386842
+  },
+  {
+    "start_char_pos": 40153,
+    "char_count": 276,
+    "epobject_id": "22289888",
+    "gid": "2013-02-06a.388.0",
+    "start": 2663882.8778386842,
+    "end": 3204690
+  },
+  {
+    "start_char_pos": 40429,
+    "char_count": 431,
+    "epobject_id": "22289889",
+    "gid": "2013-02-06a.388.1",
+    "start": 3204690,
+    "end": 3204690
+  },
+  {
+    "start_char_pos": 40860,
+    "char_count": 1599,
+    "epobject_id": "22289890",
+    "gid": "2013-02-06a.388.2",
+    "start": 3204690,
+    "end": 7117639
+  },
+  {
+    "start_char_pos": 42459,
+    "char_count": 115,
+    "epobject_id": "22289891",
+    "gid": "2013-02-06a.388.3",
+    "start": 420735.20446635725,
+    "end": 2524411.226798144
+  },
+  {
+    "start_char_pos": 42574,
+    "char_count": 575,
+    "epobject_id": "22289892",
+    "gid": "2013-02-06a.388.4",
+    "start": 2524411.226798144,
+    "end": 8498851.130220417
+  },
+  {
+    "start_char_pos": 43149,
+    "char_count": 1633,
+    "epobject_id": "22289893",
+    "gid": "2013-02-06a.389.0",
+    "start": 8498851.130220417,
+    "end": 12614739
+  },
+  {
+    "start_char_pos": 0,
+    "char_count": 1125,
+    "epobject_id": "22289918",
+    "gid": "2013-02-06a.393.2",
+    "start": 12614739,
+    "end": 12614739
+  },
+  {
+    "start_char_pos": 1125,
+    "char_count": 326,
+    "epobject_id": "22289919",
+    "gid": "2013-02-06a.393.3",
+    "start": 12614739,
+    "end": 12615489
+  },
+  {
+    "start_char_pos": 1451,
+    "char_count": 1223,
+    "epobject_id": "22289920",
+    "gid": "2013-02-06a.393.4",
+    "start": 310790.4324786325,
+    "end": 409897.7658119658
+  },
+  {
+    "start_char_pos": 2674,
+    "char_count": 390,
+    "epobject_id": "22289921",
+    "gid": "2013-02-06a.393.5",
+    "start": 409897.7658119658,
+    "end": 636574.0256410257
+  },
+  {
+    "start_char_pos": 3064,
+    "char_count": 892,
+    "epobject_id": "22289922",
+    "gid": "2013-02-06a.394.0",
+    "start": 636574.0256410257,
+    "end": 773545.4427350428
+  },
+  {
+    "start_char_pos": 3956,
+    "char_count": 539,
+    "epobject_id": "22289923",
+    "gid": "2013-02-06a.394.1",
+    "start": 773545.4427350428,
+    "end": 1040627
+  },
+  {
+    "start_char_pos": 4495,
+    "char_count": 1051,
+    "epobject_id": "22289924",
+    "gid": "2013-02-06a.394.2",
+    "start": 1040627,
+    "end": 1040627
+  },
+  {
+    "start_char_pos": 5546,
+    "char_count": 312,
+    "epobject_id": "22289925",
+    "gid": "2013-02-06a.394.3",
+    "start": 1040627,
+    "end": 1043447
+  },
+  {
+    "start_char_pos": 5858,
+    "char_count": 3382,
+    "epobject_id": "22289926",
+    "gid": "2013-02-06a.395.0",
+    "start": 8026087,
+    "end": 18304071
+  },
+  {
+    "start_char_pos": 9240,
+    "char_count": 324,
+    "epobject_id": "22289927",
+    "gid": "2013-02-06a.396.0",
+    "start": 12780269,
+    "end": 12780269
+  },
+  {
+    "start_char_pos": 9564,
+    "char_count": 771,
+    "epobject_id": "22289928",
+    "gid": "2013-02-06a.396.1",
+    "start": 12780269,
+    "end": 12781999
+  },
+  {
+    "start_char_pos": 10335,
+    "char_count": 539,
+    "epobject_id": "22289929",
+    "gid": "2013-02-06a.396.2",
+    "start": 5254928.253374233,
+    "end": 15891527
+  },
+  {
+    "start_char_pos": 10874,
+    "char_count": 1091,
+    "epobject_id": "22289930",
+    "gid": "2013-02-06a.396.3",
+    "start": 15891527,
+    "end": 15891527
+  },
+  {
+    "start_char_pos": 11965,
+    "char_count": 2465,
+    "epobject_id": "22289931",
+    "gid": "2013-02-06a.396.4",
+    "start": 15891527,
+    "end": 15894057
+  },
+  {
+    "start_char_pos": 14430,
+    "char_count": 156,
+    "epobject_id": "22289932",
+    "gid": "2013-02-06a.397.0",
+    "start": 166679.55808285947,
+    "end": 1263986.6487950177
+  },
+  {
+    "start_char_pos": 14586,
+    "char_count": 1027,
+    "epobject_id": "22289933",
+    "gid": "2013-02-06a.397.1",
+    "start": 1263986.6487950177,
+    "end": 1538580.536149472
+  },
+  {
+    "start_char_pos": 15613,
+    "char_count": 257,
+    "epobject_id": "22289934",
+    "gid": "2013-02-06a.398.0",
+    "start": 1538580.536149472,
+    "end": 2171108.0898998105
+  },
+  {
+    "start_char_pos": 15870,
+    "char_count": 592,
+    "epobject_id": "22289935",
+    "gid": "2013-02-06a.398.1",
+    "start": 2171108.0898998105,
+    "end": 2611313.076631465
+  },
+  {
+    "start_char_pos": 16462,
+    "char_count": 412,
+    "epobject_id": "22289936",
+    "gid": "2013-02-06a.398.2",
+    "start": 2611313.076631465,
+    "end": 3103872.539940428
+  },
+  {
+    "start_char_pos": 16874,
+    "char_count": 461,
+    "epobject_id": "22289937",
+    "gid": "2013-02-06a.398.3",
+    "start": 3103872.539940428,
+    "end": 3132720.9249932305
+  },
+  {
+    "start_char_pos": 17335,
+    "char_count": 27,
+    "epobject_id": "22289938",
+    "gid": "2013-02-06a.398.4",
+    "start": 3132720.9249932305,
+    "end": 3945818
+  },
+  {
+    "start_char_pos": 17362,
+    "char_count": 761,
+    "epobject_id": "22289939",
+    "gid": "2013-02-06a.398.5",
+    "start": 3945818,
+    "end": 3945818
+  },
+  {
+    "start_char_pos": 18123,
+    "char_count": 417,
+    "epobject_id": "22289940",
+    "gid": "2013-02-06a.398.6",
+    "start": 3945818,
+    "end": 3948678
+  },
+  {
+    "start_char_pos": 18540,
+    "char_count": 2939,
+    "epobject_id": "22289941",
+    "gid": "2013-02-06a.399.0",
+    "start": 8700260,
+    "end": 8701810
+  },
+  {
+    "start_char_pos": 21479,
+    "char_count": 216,
+    "epobject_id": "22289942",
+    "gid": "2013-02-06a.399.1",
+    "start": 5190877,
+    "end": 5193497
+  },
+  {
+    "start_char_pos": 21695,
+    "char_count": 645,
+    "epobject_id": "22289943",
+    "gid": "2013-02-06a.400.0",
+    "start": 15631132.904707234,
+    "end": 21108088
+  },
+  {
+    "start_char_pos": 22340,
+    "char_count": 226,
+    "epobject_id": "22289944",
+    "gid": "2013-02-06a.400.1",
+    "start": 21108088,
+    "end": 21108088
+  },
+  {
+    "start_char_pos": 22566,
+    "char_count": 611,
+    "epobject_id": "22289945",
+    "gid": "2013-02-06a.400.2",
+    "start": 21108088,
+    "end": 21110298
+  },
+  {
+    "start_char_pos": 23177,
+    "char_count": 218,
+    "epobject_id": "22289946",
+    "gid": "2013-02-06a.400.3",
+    "start": -1,
+    "end": -1
+  },
+  {
+    "start_char_pos": 23395,
+    "char_count": 883,
+    "epobject_id": "22289947",
+    "gid": "2013-02-06a.400.4",
+    "start": -1,
+    "end": -1
+  },
+  {
+    "start_char_pos": 24278,
+    "char_count": 318,
+    "epobject_id": "22289948",
+    "gid": "2013-02-06a.400.5",
+    "start": -1,
+    "end": -1
+  },
+  {
+    "start_char_pos": 24596,
+    "char_count": 1383,
+    "epobject_id": "22289949",
+    "gid": "2013-02-06a.400.6",
+    "start": -1,
+    "end": -1
+  }
+]
